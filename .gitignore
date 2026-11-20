@@ -1,0 +1,6 @@
+# index.html 은 build.py 가 만든다. 레포에는 data.json 만 올리고 페이지는 GitHub Actions 가 만든다.
+index.html
+_site/
+data/clips_*.json
+tools/hiker_usage.json
+.DS_Store
