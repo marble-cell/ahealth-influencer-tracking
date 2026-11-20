@@ -22,8 +22,10 @@ MongoDB MCP Prod, `tracer` DB.
 - 한국 광고 평균(`kr_paid`): Notion '인플루언서 섭외' 페이지의 Paid 광고 매체별 단가(10/06~11/05) + 같은 기간 `users` 한국 신규 가입 수(`created_at` 범위, `device_country: KR`).
 
 ## 누구나 갱신하기
-레포: https://github.com/TRACER-bf/ahealth-influencer-tracking (비공개, TRACER-bf 조직원만)
+레포: https://github.com/marble-cell/ahealth-influencer-tracking (공개)
+페이지: https://marble-cell.github.io/ahealth-influencer-tracking/ (링크 있는 누구나 열람)
+수정하려면 marble-cell 이 레포 collaborator 로 추가해 줘야 한다.
 1. `git clone` 또는 `git pull --rebase`
 2. `data/data.json` 수정 → `python3 build.py` 로 확인
-3. commit·push → GitHub Actions 가 GitHub Pages(조직원만 열람)를 다시 게시한다.
+3. commit·push → GitHub Actions 가 GitHub Pages 를 다시 게시한다.
 Claude 에게 맡길 때는 이 레포 폴더에서 "인플루언서 가입 트래킹 갱신해"라고 하면 CLAUDE.md 순서를 따른다.

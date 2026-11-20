@@ -8,6 +8,6 @@
 4. `git add -A && git commit -m "기록 갱신 MM/DD HH:MM" && git push`.
    push 하면 GitHub Actions 가 페이지를 다시 만들어 GitHub Pages 에 올린다(1~2분).
 5. claude.ai 아티팩트(https://claude.ai/artifact/An4x1e7FE6wR2N41zs66F4)는 만든 사람 계정에서만 다시 게시할 수 있다.
-   그 계정이면 `index.html` 을 같은 url 로 다시 게시하고(먼저 Artifact read), 아니면 건너뛴다. 공유 링크는 GitHub Pages 주소다.
+   그 계정이면 `index.html` 을 같은 url 로 다시 게시하고(먼저 Artifact read), 아니면 건너뛴다. 공유 링크는 GitHub Pages 주소(https://marble-cell.github.io/ahealth-influencer-tracking/)다.
 
 push 가 거절되면 `git pull --rebase` 뒤 data.json 충돌을 직접 합치고 다시 build 한다. 남의 갱신을 덮어쓰지 않는다.
