@@ -1,5 +1,5 @@
 {
- "as_of": "2026-11-21 11:41",
+ "as_of": "2026-11-21 11:52",
  "influencers": [
   {
    "name": "고잉메리미",
@@ -45,11 +45,18 @@
    "link": "https://ahealth.onelink.me/0mmS/yeonjo",
    "user_id": "6af5867f963745c0cc1cd240",
    "upload": "2026-11-20",
-   "uploaded": false,
+   "uploaded": true,
    "channel": "인스타그램 릴스",
    "cost": 3000000,
    "cost_note": "3.3% 떼기 전",
-   "campaign": "조회 캠페인"
+   "campaign": "조회 캠페인",
+   "post": "https://www.instagram.com/reel/Df9RtJzB6dW/",
+   "posted_at": "2026-11-20 17:56",
+   "views": 341366,
+   "likes": 3055,
+   "comments": 67,
+   "shares": 7006,
+   "saves": 411
   },
   {
    "name": "고도비만 미연이",
