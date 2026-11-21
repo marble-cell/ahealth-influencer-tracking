@@ -26,8 +26,15 @@ def won1(n): return f"{n:,.1f}원"
 
 infl, sign, kr = d["influencers"], d["signups"], d["kr_paid"]
 name_of = {i["user_id"]: i["name"] for i in infl}
-def cnt(uid, via=None): return sum(1 for s in sign if s["inviter"] == uid and via in (None, s["via"]))
-total = len(sign); n_code = sum(s["via"] == "code" for s in sign); n_link = total - n_code
+# 가입 합계는 Mixpanel invite-regist-complete(초대 코드별 순 사용자)와 몽고 기록 중 큰 값.
+# 링크 가입은 몽고 기록(event_meta random-point-referral)으로만 구분되므로 몽고 기록의 링크 수를 쓰고 나머지를 초대 코드로 센다.
+mp = d.get("mixpanel", {}).get("by_code", {})
+code_of = {i["user_id"]: i["code"] for i in infl}
+def _mongo(uid, via=None): return sum(1 for s in sign if s["inviter"] == uid and via in (None, s["via"]))
+def cnt(uid, via=None):
+    link = _mongo(uid, "link"); tot = max(_mongo(uid), mp.get(code_of[uid], 0))
+    return {"link": link, "code": tot - link, None: tot}[via]
+total = sum(cnt(i["user_id"]) for i in infl); n_link = sum(cnt(i["user_id"], "link") for i in infl); n_code = total - n_link
 up = [i for i in infl if i["uploaded"]]
 up_cost = sum(i["cost"] for i in up); up_views = sum(i["views"] for i in up)
 all_cost = sum(i["cost"] for i in infl)
@@ -96,7 +103,7 @@ tr.sum td{{background:var(--head)}}tr.grp td{{background:var(--brand-soft);color
 <header class="top"><span class="eyebrow">에이헬스 인플루언서 캠페인</span><h1>인플루언서 가입 트래킹</h1><p class="muted">{stamp(d["as_of"])} 기준 · 시각은 모두 한국 시간</p></header>
 <section id="core"><h2>핵심</h2>
 <div class="camps">{camp_cards}</div></section>
-<section id="each"><h2>인플루언서별</h2><p class="muted">이름을 누르면 올라간 게시물이 열립니다.</p>
+<section id="each"><h2>인플루언서별</h2><p class="muted">이름을 누르면 올라간 게시물이 열립니다. 가입 합계는 Mixpanel 초대 코드 가입({stamp(d["mixpanel"]["as_of"]) if d.get("mixpanel") else "-"} 기준), 링크 가입은 앱 DB 조회({stamp(d["mongo_as_of"]) if d.get("mongo_as_of") else "-"} 기준)입니다.</p>
 <div class="scroll"><table class="all"><thead><tr><th rowspan="2">인플루언서</th><th rowspan="2">업로드</th><th rowspan="2" class="n">비용</th><th colspan="5" class="c">게시물 반응</th><th colspan="3" class="c g">가입</th><th colspan="2" class="c g">비용 효율</th><th rowspan="2">초대 코드 · 링크</th></tr>
 <tr><th class="n">조회</th><th class="n">좋아요</th><th class="n">댓글</th><th class="n">공유</th><th class="n">저장</th><th class="n g">초대 코드</th><th class="n">링크</th><th class="n">합계</th><th class="n g">조회 1회당</th><th class="n">가입 1명당</th></tr></thead><tbody>{rows}</tbody></table></div></section>
 </main>

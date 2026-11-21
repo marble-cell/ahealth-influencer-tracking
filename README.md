@@ -9,6 +9,7 @@
 - `template.css`: 방정식 페이지와 같은 디자인.
 
 ## 숫자 갱신
+0. 가입 합계는 Mixpanel(project 3046325) `invite-regist-complete` 순 사용자를 `invite_code` 로 나눠 data.json 의 `mixpanel.by_code` 에 넣는다(11/15부터, 커스텀 그룹으로 인플루언서 코드만). 몽고 인증이 없어도 된다.
 MongoDB MCP Prod, `tracer` DB.
 1. `users` 를 `inviter_id` ∈ 추적용 계정 회원 ID 로 조회(`inviter_id_1` 인덱스) → 가입자와 `created_at`, `device_os`.
 2. `points` 를 `invitee_id` ∈ 가입자 ID 로 조회(`invitee_id_1` 인덱스) → `event: INFLUENCER_INVITEE`.

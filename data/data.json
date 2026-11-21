@@ -1,5 +1,5 @@
 {
- "as_of": "2026-11-21 11:52",
+ "as_of": "2026-11-21 12:10",
  "influencers": [
   {
    "name": "고잉메리미",
@@ -260,5 +260,15 @@
     120000
    ]
   ]
+ },
+ "mongo_as_of": "2026-11-20 12:02",
+ "mixpanel": {
+  "as_of": "2026-11-21 12:10",
+  "source": "invite-regist-complete 순 사용자, invite_code 별, 11/15~",
+  "by_code": {
+   "GOINGM": 4,
+   "YEOJUN": 42,
+   "YEONJO": 114
+  }
  }
 }
