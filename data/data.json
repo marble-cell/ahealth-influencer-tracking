@@ -1,5 +1,5 @@
 {
- "as_of": "2026-11-22 10:25",
+ "as_of": "2026-11-22 15:33",
  "influencers": [
   {
    "name": "고잉메리미",
@@ -13,8 +13,8 @@
    "cost_note": "VAT 별도",
    "post": "https://www.instagram.com/reel/Df6rhsqSCyJ/",
    "posted_at": "2026-11-19 17:48",
-   "views": 44144,
-   "likes": 339,
+   "views": 45558,
+   "likes": 344,
    "comments": 12,
    "shares": 30,
    "saves": 42,
@@ -32,11 +32,11 @@
    "cost_note": "3.3% 떼기 전",
    "post": "https://www.instagram.com/reel/Df8bijhzXyq/",
    "posted_at": "2026-11-20 10:05",
-   "views": 203345,
-   "likes": 4836,
+   "views": 210669,
+   "likes": 4937,
    "comments": 78,
-   "shares": 1170,
-   "saves": 238,
+   "shares": 1186,
+   "saves": 245,
    "campaign": "조회 캠페인"
   },
   {
@@ -52,11 +52,11 @@
    "campaign": "조회 캠페인",
    "post": "https://www.instagram.com/reel/Df9RtJzB6dW/",
    "posted_at": "2026-11-20 17:56",
-   "views": 417999,
-   "likes": 3694,
+   "views": 421647,
+   "likes": 3728,
    "comments": 82,
-   "shares": 9482,
-   "saves": 472
+   "shares": 9534,
+   "saves": 480
   },
   {
    "name": "고도비만 미연이",
@@ -541,15 +541,15 @@
    "via": "code"
   },
   {
-   "inviter": "6af5867f963745c0cc1cd240",
-   "at": "2026-11-20 20:28",
-   "os": "아이폰",
-   "via": "code"
-  },
-  {
    "inviter": "6af5867f963745c0cc1cd23e",
    "at": "2026-11-20 20:28",
    "os": "안드로이드",
+   "via": "code"
+  },
+  {
+   "inviter": "6af5867f963745c0cc1cd240",
+   "at": "2026-11-20 20:28",
+   "os": "아이폰",
    "via": "code"
   },
   {
@@ -667,16 +667,16 @@
    "via": "code"
   },
   {
-   "inviter": "6af5867f963745c0cc1cd240",
-   "at": "2026-11-20 22:10",
-   "os": "아이폰",
-   "via": "code"
-  },
-  {
    "inviter": "6af5867f963745c0cc1cd23e",
    "at": "2026-11-20 22:10",
    "os": "안드로이드",
    "via": "link"
+  },
+  {
+   "inviter": "6af5867f963745c0cc1cd240",
+   "at": "2026-11-20 22:10",
+   "os": "아이폰",
+   "via": "code"
   },
   {
    "inviter": "6af5867f963745c0cc1cd240",
@@ -749,6 +749,12 @@
    "at": "2026-11-20 23:04",
    "os": "안드로이드",
    "via": "link"
+  },
+  {
+   "inviter": "6af5867f963745c0cc1cd240",
+   "at": "2026-11-20 23:12",
+   "os": "아이폰",
+   "via": "code"
   },
   {
    "inviter": "6af5867f963745c0cc1cd23e",
@@ -1009,13 +1015,13 @@
    "via": "code"
   },
   {
-   "inviter": "6af5867f963745c0cc1cd240",
+   "inviter": "6af5867f963745c0cc1cd23e",
    "at": "2026-11-21 07:44",
    "os": "아이폰",
    "via": "code"
   },
   {
-   "inviter": "6af5867f963745c0cc1cd23e",
+   "inviter": "6af5867f963745c0cc1cd240",
    "at": "2026-11-21 07:44",
    "os": "아이폰",
    "via": "code"
@@ -1105,16 +1111,16 @@
    "via": "code"
   },
   {
-   "inviter": "6af5867f963745c0cc1cd240",
-   "at": "2026-11-21 10:44",
-   "os": "아이폰",
-   "via": "code"
-  },
-  {
    "inviter": "6af5867f963745c0cc1cd23e",
    "at": "2026-11-21 10:44",
    "os": "안드로이드",
    "via": "link"
+  },
+  {
+   "inviter": "6af5867f963745c0cc1cd240",
+   "at": "2026-11-21 10:44",
+   "os": "아이폰",
+   "via": "code"
   },
   {
    "inviter": "6af5867f963745c0cc1cd240",
@@ -1249,13 +1255,13 @@
    "via": "code"
   },
   {
-   "inviter": "6af5867f963745c0cc1cd240",
+   "inviter": "6af5867f963745c0cc1cd23e",
    "at": "2026-11-21 14:09",
    "os": "아이폰",
    "via": "code"
   },
   {
-   "inviter": "6af5867f963745c0cc1cd23e",
+   "inviter": "6af5867f963745c0cc1cd240",
    "at": "2026-11-21 14:09",
    "os": "아이폰",
    "via": "code"
@@ -1315,6 +1321,12 @@
    "via": "code"
   },
   {
+   "inviter": "6af5867f963745c0cc1cd240",
+   "at": "2026-11-21 23:32",
+   "os": "아이폰",
+   "via": "code"
+  },
+  {
    "inviter": "6af5867f963745c0cc1cd242",
    "at": "2026-11-22 03:37",
    "os": "아이폰",
@@ -1323,6 +1335,30 @@
   {
    "inviter": "6af5867f963745c0cc1cd240",
    "at": "2026-11-22 10:04",
+   "os": "안드로이드",
+   "via": "code"
+  },
+  {
+   "inviter": "6af5867f963745c0cc1cd240",
+   "at": "2026-11-22 11:43",
+   "os": "아이폰",
+   "via": "code"
+  },
+  {
+   "inviter": "6af5867f963745c0cc1cd240",
+   "at": "2026-11-22 13:25",
+   "os": "아이폰",
+   "via": "code"
+  },
+  {
+   "inviter": "6af5867f963745c0cc1cd240",
+   "at": "2026-11-22 14:06",
+   "os": "아이폰",
+   "via": "code"
+  },
+  {
+   "inviter": "6af5867f963745c0cc1cd23e",
+   "at": "2026-11-22 15:23",
    "os": "안드로이드",
    "via": "code"
   }
@@ -1365,14 +1401,14 @@
    ]
   ]
  },
- "mongo_as_of": "2026-11-22 10:25",
+ "mongo_as_of": "2026-11-22 15:33",
  "mixpanel": {
-  "as_of": "2026-11-22 10:25",
+  "as_of": "2026-11-22 15:33",
   "source": "invite-regist-complete 순 사용자, invite_code 별, 11/15~",
   "by_code": {
    "GOINGM": 5,
    "YEOJUN": 46,
-   "YEONJO": 134
+   "YEONJO": 139
   }
  }
 }
