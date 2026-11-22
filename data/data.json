@@ -1,5 +1,5 @@
 {
- "as_of": "2026-11-21 23:45",
+ "as_of": "2026-11-22 10:25",
  "influencers": [
   {
    "name": "고잉메리미",
@@ -13,10 +13,10 @@
    "cost_note": "VAT 별도",
    "post": "https://www.instagram.com/reel/Df6rhsqSCyJ/",
    "posted_at": "2026-11-19 17:48",
-   "views": 42076,
-   "likes": 334,
+   "views": 44144,
+   "likes": 339,
    "comments": 12,
-   "shares": 29,
+   "shares": 30,
    "saves": 42,
    "campaign": "조회 캠페인"
   },
@@ -32,11 +32,11 @@
    "cost_note": "3.3% 떼기 전",
    "post": "https://www.instagram.com/reel/Df8bijhzXyq/",
    "posted_at": "2026-11-20 10:05",
-   "views": 191065,
-   "likes": 4635,
-   "comments": 77,
-   "shares": 1115,
-   "saves": 235,
+   "views": 203345,
+   "likes": 4836,
+   "comments": 78,
+   "shares": 1170,
+   "saves": 238,
    "campaign": "조회 캠페인"
   },
   {
@@ -52,11 +52,11 @@
    "campaign": "조회 캠페인",
    "post": "https://www.instagram.com/reel/Df9RtJzB6dW/",
    "posted_at": "2026-11-20 17:56",
-   "views": 407327,
-   "likes": 3605,
+   "views": 417999,
+   "likes": 3694,
    "comments": 82,
-   "shares": 9117,
-   "saves": 467
+   "shares": 9482,
+   "saves": 472
   },
   {
    "name": "고도비만 미연이",
@@ -1313,6 +1313,18 @@
    "at": "2026-11-21 23:04",
    "os": "안드로이드",
    "via": "code"
+  },
+  {
+   "inviter": "6af5867f963745c0cc1cd242",
+   "at": "2026-11-22 03:37",
+   "os": "아이폰",
+   "via": "code"
+  },
+  {
+   "inviter": "6af5867f963745c0cc1cd240",
+   "at": "2026-11-22 10:04",
+   "os": "안드로이드",
+   "via": "code"
   }
  ],
  "kr_paid": {
@@ -1353,14 +1365,14 @@
    ]
   ]
  },
- "mongo_as_of": "2026-11-21 23:45",
+ "mongo_as_of": "2026-11-22 10:25",
  "mixpanel": {
-  "as_of": "2026-11-21 21:25",
+  "as_of": "2026-11-22 10:25",
   "source": "invite-regist-complete 순 사용자, invite_code 별, 11/15~",
   "by_code": {
-   "GOINGM": 4,
+   "GOINGM": 5,
    "YEOJUN": 46,
-   "YEONJO": 131
+   "YEONJO": 134
   }
  }
 }
