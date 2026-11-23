@@ -31,5 +31,12 @@ jobs:
       - uses: actions/upload-pages-artifact@v3
         with:
           path: _site
+      # 업로드 직후엔 GitHub 쪽에서 파일이 아직 안 보일 때가 있어 잠깐 기다렸다가 배포하고, 실패하면 한 번 더 한다
+      - run: sleep 20
       - id: deploy
+        continue-on-error: true
+        uses: actions/deploy-pages@v4
+      - if: steps.deploy.outcome == 'failure'
+        run: sleep 60
+      - if: steps.deploy.outcome == 'failure'
         uses: actions/deploy-pages@v4
