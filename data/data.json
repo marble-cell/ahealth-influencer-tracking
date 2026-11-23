@@ -1,1492 +1,1492 @@
 {
- "as_of": "2026-11-23 15:30",
- "influencers": [
-  {
-   "name": "고잉메리미",
-   "code": "GOINGM",
-   "link": "https://ahealth.onelink.me/0mmS/goingm",
-   "user_id": "6af5867f963745c0cc1cd242",
-   "upload": "2026-11-19",
-   "uploaded": true,
-   "channel": "인스타그램 릴스",
-   "cost": 1500000,
-   "cost_note": "VAT 별도",
-   "post": "https://www.instagram.com/reel/Df6rhsqSCyJ/",
-   "posted_at": "2026-11-19 17:48",
-   "views": 49958,
-   "likes": 353,
-   "comments": 14,
-   "shares": 42,
-   "saves": 44,
-   "campaign": "조회 캠페인"
-  },
-  {
-   "name": "여준영",
-   "code": "YEOJUN",
-   "link": "https://ahealth.onelink.me/0mmS/yeojun",
-   "user_id": "6af5867f963745c0cc1cd23e",
-   "upload": "2026-11-20",
-   "uploaded": true,
-   "channel": "인스타그램 릴스",
-   "cost": 1500000,
-   "cost_note": "3.3% 떼기 전",
-   "post": "https://www.instagram.com/reel/Df8bijhzXyq/",
-   "posted_at": "2026-11-20 10:05",
-   "views": 225187,
-   "likes": 5167,
-   "comments": 79,
-   "shares": 1220,
-   "saves": 262,
-   "campaign": "조회 캠페인"
-  },
-  {
-   "name": "유연조",
-   "code": "YEONJO",
-   "link": "https://ahealth.onelink.me/0mmS/yeonjo",
-   "user_id": "6af5867f963745c0cc1cd240",
-   "upload": "2026-11-20",
-   "uploaded": true,
-   "channel": "인스타그램 릴스",
-   "cost": 3000000,
-   "cost_note": "3.3% 떼기 전",
-   "campaign": "조회 캠페인",
-   "post": "https://www.instagram.com/reel/Df9RtJzB6dW/",
-   "posted_at": "2026-11-20 17:56",
-   "views": 443377,
-   "likes": 3900,
-   "comments": 82,
-   "shares": 9865,
-   "saves": 496
-  },
-  {
-   "name": "고도비만 미연이",
-   "code": "MIYEON",
-   "link": "https://ahealth.onelink.me/0mmS/miyeon",
-   "user_id": "6af57ebb9da3d4668e933468",
-   "upload": "2026-11-23",
-   "uploaded": false,
-   "channel": "인스타그램 릴스",
-   "cost": 600000,
-   "cost_note": "3.3% 떼기 전",
-   "campaign": "전환 캠페인"
-  },
-  {
-   "name": "나도 산다",
-   "code": "NADOSD",
-   "link": "https://ahealth.onelink.me/0mmS/nadosd",
-   "user_id": "6af5867e963745c0cc1cd23a",
-   "upload": "2026-11-29",
-   "uploaded": false,
-   "channel": "유튜브 쇼츠",
-   "cost": 800000,
-   "cost_note": "3.3% 떼기 전",
-   "campaign": "전환 캠페인"
-  },
-  {
-   "name": "한결",
-   "code": "HGYEOL",
-   "link": "https://ahealth.onelink.me/0mmS/hgyeol",
-   "user_id": "6af5867e963745c0cc1cd238",
-   "upload": "2026-12-03",
-   "uploaded": false,
-   "channel": "인스타그램 릴스",
-   "cost": 1000000,
-   "cost_note": "3.3% 떼기 전",
-   "campaign": "전환 캠페인"
-  },
-  {
-   "name": "지스터",
-   "code": "JISTER",
-   "link": "https://ahealth.onelink.me/0mmS/jister",
-   "user_id": "6af5867f963745c0cc1cd23c",
-   "upload": "2026-12-14",
-   "uploaded": false,
-   "channel": "인스타그램 릴스",
-   "cost": 850000,
-   "cost_note": "3.3% 떼기 전",
-   "campaign": "전환 캠페인"
-  }
- ],
- "signups": [
-  {
-   "inviter": "6af5867f963745c0cc1cd242",
-   "at": "2026-11-19 19:11",
-   "os": "안드로이드",
-   "via": "code"
-  },
-  {
-   "inviter": "6af5867f963745c0cc1cd242",
-   "at": "2026-11-19 19:38",
-   "os": "안드로이드",
-   "via": "link"
-  },
-  {
-   "inviter": "6af5867f963745c0cc1cd242",
-   "at": "2026-11-20 07:38",
-   "os": "안드로이드",
-   "via": "code"
-  },
-  {
-   "inviter": "6af5867f963745c0cc1cd240",
-   "at": "2026-11-20 08:59",
-   "os": "안드로이드",
-   "via": "code"
-  },
-  {
-   "inviter": "6af5867f963745c0cc1cd242",
-   "at": "2026-11-20 10:01",
-   "os": "아이폰",
-   "via": "code"
-  },
-  {
-   "inviter": "6af5867f963745c0cc1cd23e",
-   "at": "2026-11-20 10:22",
-   "os": "안드로이드",
-   "via": "code"
-  },
-  {
-   "inviter": "6af5867f963745c0cc1cd23e",
-   "at": "2026-11-20 10:22",
-   "os": "안드로이드",
-   "via": "code"
-  },
-  {
-   "inviter": "6af5867f963745c0cc1cd23e",
-   "at": "2026-11-20 10:23",
-   "os": "안드로이드",
-   "via": "code"
-  },
-  {
-   "inviter": "6af5867f963745c0cc1cd23e",
-   "at": "2026-11-20 10:30",
-   "os": "아이폰",
-   "via": "code"
-  },
-  {
-   "inviter": "6af5867f963745c0cc1cd23e",
-   "at": "2026-11-20 10:38",
-   "os": "안드로이드",
-   "via": "code"
-  },
-  {
-   "inviter": "6af5867f963745c0cc1cd23e",
-   "at": "2026-11-20 10:38",
-   "os": "안드로이드",
-   "via": "code"
-  },
-  {
-   "inviter": "6af5867f963745c0cc1cd23e",
-   "at": "2026-11-20 10:43",
-   "os": "안드로이드",
-   "via": "code"
-  },
-  {
-   "inviter": "6af5867f963745c0cc1cd23e",
-   "at": "2026-11-20 10:50",
-   "os": "안드로이드",
-   "via": "code"
-  },
-  {
-   "inviter": "6af5867f963745c0cc1cd23e",
-   "at": "2026-11-20 10:55",
-   "os": "아이폰",
-   "via": "code"
-  },
-  {
-   "inviter": "6af5867f963745c0cc1cd23e",
-   "at": "2026-11-20 11:01",
-   "os": "아이폰",
-   "via": "code"
-  },
-  {
-   "inviter": "6af5867f963745c0cc1cd23e",
-   "at": "2026-11-20 11:02",
-   "os": "안드로이드",
-   "via": "code"
-  },
-  {
-   "inviter": "6af5867f963745c0cc1cd23e",
-   "at": "2026-11-20 11:13",
-   "os": "안드로이드",
-   "via": "code"
-  },
-  {
-   "inviter": "6af5867f963745c0cc1cd23e",
-   "at": "2026-11-20 11:24",
-   "os": "안드로이드",
-   "via": "code"
-  },
-  {
-   "inviter": "6af5867f963745c0cc1cd23e",
-   "at": "2026-11-20 11:27",
-   "os": "안드로이드",
-   "via": "code"
-  },
-  {
-   "inviter": "6af5867f963745c0cc1cd240",
-   "at": "2026-11-20 11:46",
-   "os": "아이폰",
-   "via": "code"
-  },
-  {
-   "inviter": "6af5867f963745c0cc1cd23e",
-   "at": "2026-11-20 11:50",
-   "os": "안드로이드",
-   "via": "link"
-  },
-  {
-   "inviter": "6af5867f963745c0cc1cd23e",
-   "at": "2026-11-20 12:27",
-   "os": "아이폰",
-   "via": "code"
-  },
-  {
-   "inviter": "6af5867f963745c0cc1cd23e",
-   "at": "2026-11-20 12:28",
-   "os": "아이폰",
-   "via": "code"
-  },
-  {
-   "inviter": "6af5867f963745c0cc1cd23e",
-   "at": "2026-11-20 12:31",
-   "os": "안드로이드",
-   "via": "link"
-  },
-  {
-   "inviter": "6af5867f963745c0cc1cd23e",
-   "at": "2026-11-20 12:45",
-   "os": "안드로이드",
-   "via": "link"
-  },
-  {
-   "inviter": "6af5867f963745c0cc1cd23e",
-   "at": "2026-11-20 12:46",
-   "os": "안드로이드",
-   "via": "code"
-  },
-  {
-   "inviter": "6af5867f963745c0cc1cd23e",
-   "at": "2026-11-20 12:52",
-   "os": "안드로이드",
-   "via": "link"
-  },
-  {
-   "inviter": "6af5867f963745c0cc1cd23e",
-   "at": "2026-11-20 13:34",
-   "os": "아이폰",
-   "via": "code"
-  },
-  {
-   "inviter": "6af5867f963745c0cc1cd23e",
-   "at": "2026-11-20 13:45",
-   "os": "아이폰",
-   "via": "code"
-  },
-  {
-   "inviter": "6af5867f963745c0cc1cd23e",
-   "at": "2026-11-20 14:12",
-   "os": "아이폰",
-   "via": "code"
-  },
-  {
-   "inviter": "6af5867f963745c0cc1cd23e",
-   "at": "2026-11-20 14:18",
-   "os": "아이폰",
-   "via": "code"
-  },
-  {
-   "inviter": "6af5867f963745c0cc1cd23e",
-   "at": "2026-11-20 15:11",
-   "os": "아이폰",
-   "via": "code"
-  },
-  {
-   "inviter": "6af5867f963745c0cc1cd23e",
-   "at": "2026-11-20 15:24",
-   "os": "안드로이드",
-   "via": "code"
-  },
-  {
-   "inviter": "6af5867f963745c0cc1cd23e",
-   "at": "2026-11-20 15:41",
-   "os": "아이폰",
-   "via": "code"
-  },
-  {
-   "inviter": "6af5867f963745c0cc1cd23e",
-   "at": "2026-11-20 16:40",
-   "os": "아이폰",
-   "via": "code"
-  },
-  {
-   "inviter": "6af5867f963745c0cc1cd23e",
-   "at": "2026-11-20 17:45",
-   "os": "안드로이드",
-   "via": "code"
-  },
-  {
-   "inviter": "6af5867f963745c0cc1cd23e",
-   "at": "2026-11-20 17:56",
-   "os": "안드로이드",
-   "via": "code"
-  },
-  {
-   "inviter": "6af5867f963745c0cc1cd23e",
-   "at": "2026-11-20 18:03",
-   "os": "안드로이드",
-   "via": "code"
-  },
-  {
-   "inviter": "6af5867f963745c0cc1cd23e",
-   "at": "2026-11-20 18:03",
-   "os": "안드로이드",
-   "via": "code"
-  },
-  {
-   "inviter": "6af5867f963745c0cc1cd240",
-   "at": "2026-11-20 18:14",
-   "os": "아이폰",
-   "via": "code"
-  },
-  {
-   "inviter": "6af5867f963745c0cc1cd240",
-   "at": "2026-11-20 18:22",
-   "os": "아이폰",
-   "via": "code"
-  },
-  {
-   "inviter": "6af5867f963745c0cc1cd240",
-   "at": "2026-11-20 18:25",
-   "os": "안드로이드",
-   "via": "code"
-  },
-  {
-   "inviter": "6af5867f963745c0cc1cd240",
-   "at": "2026-11-20 18:27",
-   "os": "아이폰",
-   "via": "code"
-  },
-  {
-   "inviter": "6af5867f963745c0cc1cd240",
-   "at": "2026-11-20 18:35",
-   "os": "안드로이드",
-   "via": "code"
-  },
-  {
-   "inviter": "6af5867f963745c0cc1cd240",
-   "at": "2026-11-20 18:39",
-   "os": "안드로이드",
-   "via": "code"
-  },
-  {
-   "inviter": "6af5867f963745c0cc1cd240",
-   "at": "2026-11-20 18:42",
-   "os": "아이폰",
-   "via": "code"
-  },
-  {
-   "inviter": "6af5867f963745c0cc1cd240",
-   "at": "2026-11-20 18:44",
-   "os": "안드로이드",
-   "via": "code"
-  },
-  {
-   "inviter": "6af5867f963745c0cc1cd240",
-   "at": "2026-11-20 18:48",
-   "os": "안드로이드",
-   "via": "code"
-  },
-  {
-   "inviter": "6af5867f963745c0cc1cd240",
-   "at": "2026-11-20 18:48",
-   "os": "안드로이드",
-   "via": "code"
-  },
-  {
-   "inviter": "6af5867f963745c0cc1cd240",
-   "at": "2026-11-20 19:02",
-   "os": "안드로이드",
-   "via": "code"
-  },
-  {
-   "inviter": "6af5867f963745c0cc1cd240",
-   "at": "2026-11-20 19:07",
-   "os": "안드로이드",
-   "via": "code"
-  },
-  {
-   "inviter": "6af5867f963745c0cc1cd240",
-   "at": "2026-11-20 19:13",
-   "os": "아이폰",
-   "via": "code"
-  },
-  {
-   "inviter": "6af5867f963745c0cc1cd240",
-   "at": "2026-11-20 19:14",
-   "os": "안드로이드",
-   "via": "code"
-  },
-  {
-   "inviter": "6af5867f963745c0cc1cd240",
-   "at": "2026-11-20 19:16",
-   "os": "안드로이드",
-   "via": "code"
-  },
-  {
-   "inviter": "6af5867f963745c0cc1cd240",
-   "at": "2026-11-20 19:19",
-   "os": "아이폰",
-   "via": "code"
-  },
-  {
-   "inviter": "6af5867f963745c0cc1cd240",
-   "at": "2026-11-20 19:31",
-   "os": "아이폰",
-   "via": "code"
-  },
-  {
-   "inviter": "6af5867f963745c0cc1cd240",
-   "at": "2026-11-20 19:32",
-   "os": "아이폰",
-   "via": "code"
-  },
-  {
-   "inviter": "6af5867f963745c0cc1cd240",
-   "at": "2026-11-20 19:35",
-   "os": "아이폰",
-   "via": "code"
-  },
-  {
-   "inviter": "6af5867f963745c0cc1cd240",
-   "at": "2026-11-20 19:35",
-   "os": "아이폰",
-   "via": "code"
-  },
-  {
-   "inviter": "6af5867f963745c0cc1cd240",
-   "at": "2026-11-20 19:41",
-   "os": "아이폰",
-   "via": "code"
-  },
-  {
-   "inviter": "6af5867f963745c0cc1cd240",
-   "at": "2026-11-20 19:43",
-   "os": "아이폰",
-   "via": "code"
-  },
-  {
-   "inviter": "6af5867f963745c0cc1cd240",
-   "at": "2026-11-20 19:44",
-   "os": "아이폰",
-   "via": "code"
-  },
-  {
-   "inviter": "6af5867f963745c0cc1cd240",
-   "at": "2026-11-20 19:52",
-   "os": "안드로이드",
-   "via": "code"
-  },
-  {
-   "inviter": "6af5867f963745c0cc1cd240",
-   "at": "2026-11-20 19:53",
-   "os": "안드로이드",
-   "via": "code"
-  },
-  {
-   "inviter": "6af5867f963745c0cc1cd240",
-   "at": "2026-11-20 20:02",
-   "os": "안드로이드",
-   "via": "code"
-  },
-  {
-   "inviter": "6af5867f963745c0cc1cd240",
-   "at": "2026-11-20 20:12",
-   "os": "안드로이드",
-   "via": "code"
-  },
-  {
-   "inviter": "6af5867f963745c0cc1cd240",
-   "at": "2026-11-20 20:14",
-   "os": "안드로이드",
-   "via": "code"
-  },
-  {
-   "inviter": "6af5867f963745c0cc1cd240",
-   "at": "2026-11-20 20:17",
-   "os": "아이폰",
-   "via": "code"
-  },
-  {
-   "inviter": "6af5867f963745c0cc1cd240",
-   "at": "2026-11-20 20:17",
-   "os": "아이폰",
-   "via": "code"
-  },
-  {
-   "inviter": "6af5867f963745c0cc1cd23e",
-   "at": "2026-11-20 20:23",
-   "os": "안드로이드",
-   "via": "link"
-  },
-  {
-   "inviter": "6af5867f963745c0cc1cd240",
-   "at": "2026-11-20 20:24",
-   "os": "아이폰",
-   "via": "code"
-  },
-  {
-   "inviter": "6af5867f963745c0cc1cd240",
-   "at": "2026-11-20 20:26",
-   "os": "안드로이드",
-   "via": "code"
-  },
-  {
-   "inviter": "6af5867f963745c0cc1cd240",
-   "at": "2026-11-20 20:28",
-   "os": "아이폰",
-   "via": "code"
-  },
-  {
-   "inviter": "6af5867f963745c0cc1cd23e",
-   "at": "2026-11-20 20:28",
-   "os": "안드로이드",
-   "via": "code"
-  },
-  {
-   "inviter": "6af5867f963745c0cc1cd240",
-   "at": "2026-11-20 20:34",
-   "os": "아이폰",
-   "via": "code"
-  },
-  {
-   "inviter": "6af5867f963745c0cc1cd23e",
-   "at": "2026-11-20 20:36",
-   "os": "아이폰",
-   "via": "code"
-  },
-  {
-   "inviter": "6af5867f963745c0cc1cd23e",
-   "at": "2026-11-20 20:39",
-   "os": "아이폰",
-   "via": "code"
-  },
-  {
-   "inviter": "6af5867f963745c0cc1cd23e",
-   "at": "2026-11-20 20:49",
-   "os": "안드로이드",
-   "via": "code"
-  },
-  {
-   "inviter": "6af5867f963745c0cc1cd240",
-   "at": "2026-11-20 20:50",
-   "os": "아이폰",
-   "via": "code"
-  },
-  {
-   "inviter": "6af5867f963745c0cc1cd240",
-   "at": "2026-11-20 21:09",
-   "os": "아이폰",
-   "via": "code"
-  },
-  {
-   "inviter": "6af5867f963745c0cc1cd240",
-   "at": "2026-11-20 21:10",
-   "os": "아이폰",
-   "via": "code"
-  },
-  {
-   "inviter": "6af5867f963745c0cc1cd240",
-   "at": "2026-11-20 21:13",
-   "os": "아이폰",
-   "via": "code"
-  },
-  {
-   "inviter": "6af5867f963745c0cc1cd240",
-   "at": "2026-11-20 21:16",
-   "os": "아이폰",
-   "via": "code"
-  },
-  {
-   "inviter": "6af5867f963745c0cc1cd240",
-   "at": "2026-11-20 21:18",
-   "os": "아이폰",
-   "via": "code"
-  },
-  {
-   "inviter": "6af5867f963745c0cc1cd23e",
-   "at": "2026-11-20 21:29",
-   "os": "안드로이드",
-   "via": "code"
-  },
-  {
-   "inviter": "6af5867f963745c0cc1cd242",
-   "at": "2026-11-20 21:30",
-   "os": "아이폰",
-   "via": "code"
-  },
-  {
-   "inviter": "6af5867f963745c0cc1cd240",
-   "at": "2026-11-20 21:37",
-   "os": "아이폰",
-   "via": "code"
-  },
-  {
-   "inviter": "6af5867f963745c0cc1cd240",
-   "at": "2026-11-20 21:45",
-   "os": "안드로이드",
-   "via": "link"
-  },
-  {
-   "inviter": "6af5867f963745c0cc1cd240",
-   "at": "2026-11-20 21:58",
-   "os": "아이폰",
-   "via": "code"
-  },
-  {
-   "inviter": "6af5867f963745c0cc1cd240",
-   "at": "2026-11-20 21:59",
-   "os": "아이폰",
-   "via": "code"
-  },
-  {
-   "inviter": "6af5867f963745c0cc1cd240",
-   "at": "2026-11-20 22:03",
-   "os": "안드로이드",
-   "via": "code"
-  },
-  {
-   "inviter": "6af5867f963745c0cc1cd240",
-   "at": "2026-11-20 22:05",
-   "os": "안드로이드",
-   "via": "code"
-  },
-  {
-   "inviter": "6af5867f963745c0cc1cd240",
-   "at": "2026-11-20 22:08",
-   "os": "안드로이드",
-   "via": "code"
-  },
-  {
-   "inviter": "6af5867f963745c0cc1cd240",
-   "at": "2026-11-20 22:10",
-   "os": "아이폰",
-   "via": "code"
-  },
-  {
-   "inviter": "6af5867f963745c0cc1cd23e",
-   "at": "2026-11-20 22:10",
-   "os": "안드로이드",
-   "via": "link"
-  },
-  {
-   "inviter": "6af5867f963745c0cc1cd240",
-   "at": "2026-11-20 22:11",
-   "os": "아이폰",
-   "via": "code"
-  },
-  {
-   "inviter": "6af5867f963745c0cc1cd23e",
-   "at": "2026-11-20 22:13",
-   "os": "안드로이드",
-   "via": "link"
-  },
-  {
-   "inviter": "6af5867f963745c0cc1cd240",
-   "at": "2026-11-20 22:14",
-   "os": "아이폰",
-   "via": "code"
-  },
-  {
-   "inviter": "6af5867f963745c0cc1cd240",
-   "at": "2026-11-20 22:16",
-   "os": "안드로이드",
-   "via": "link"
-  },
-  {
-   "inviter": "6af5867f963745c0cc1cd240",
-   "at": "2026-11-20 22:17",
-   "os": "아이폰",
-   "via": "code"
-  },
-  {
-   "inviter": "6af5867f963745c0cc1cd240",
-   "at": "2026-11-20 22:17",
-   "os": "아이폰",
-   "via": "code"
-  },
-  {
-   "inviter": "6af5867f963745c0cc1cd240",
-   "at": "2026-11-20 22:24",
-   "os": "안드로이드",
-   "via": "code"
-  },
-  {
-   "inviter": "6af5867f963745c0cc1cd240",
-   "at": "2026-11-20 22:28",
-   "os": "아이폰",
-   "via": "code"
-  },
-  {
-   "inviter": "6af5867f963745c0cc1cd240",
-   "at": "2026-11-20 22:43",
-   "os": "아이폰",
-   "via": "code"
-  },
-  {
-   "inviter": "6af5867f963745c0cc1cd240",
-   "at": "2026-11-20 22:44",
-   "os": "아이폰",
-   "via": "code"
-  },
-  {
-   "inviter": "6af5867f963745c0cc1cd240",
-   "at": "2026-11-20 22:45",
-   "os": "아이폰",
-   "via": "code"
-  },
-  {
-   "inviter": "6af5867f963745c0cc1cd240",
-   "at": "2026-11-20 23:04",
-   "os": "안드로이드",
-   "via": "link"
-  },
-  {
-   "inviter": "6af5867f963745c0cc1cd240",
-   "at": "2026-11-20 23:12",
-   "os": "아이폰",
-   "via": "code"
-  },
-  {
-   "inviter": "6af5867f963745c0cc1cd23e",
-   "at": "2026-11-20 23:19",
-   "os": "안드로이드",
-   "via": "code"
-  },
-  {
-   "inviter": "6af5867f963745c0cc1cd240",
-   "at": "2026-11-20 23:20",
-   "os": "아이폰",
-   "via": "code"
-  },
-  {
-   "inviter": "6af5867f963745c0cc1cd240",
-   "at": "2026-11-20 23:26",
-   "os": "아이폰",
-   "via": "code"
-  },
-  {
-   "inviter": "6af5867f963745c0cc1cd240",
-   "at": "2026-11-20 23:32",
-   "os": "아이폰",
-   "via": "code"
-  },
-  {
-   "inviter": "6af5867f963745c0cc1cd240",
-   "at": "2026-11-20 23:46",
-   "os": "아이폰",
-   "via": "code"
-  },
-  {
-   "inviter": "6af5867f963745c0cc1cd240",
-   "at": "2026-11-20 23:47",
-   "os": "안드로이드",
-   "via": "code"
-  },
-  {
-   "inviter": "6af5867f963745c0cc1cd240",
-   "at": "2026-11-20 23:48",
-   "os": "아이폰",
-   "via": "code"
-  },
-  {
-   "inviter": "6af5867f963745c0cc1cd240",
-   "at": "2026-11-20 23:52",
-   "os": "아이폰",
-   "via": "code"
-  },
-  {
-   "inviter": "6af5867f963745c0cc1cd240",
-   "at": "2026-11-20 23:58",
-   "os": "아이폰",
-   "via": "code"
-  },
-  {
-   "inviter": "6af5867f963745c0cc1cd240",
-   "at": "2026-11-20 23:59",
-   "os": "안드로이드",
-   "via": "link"
-  },
-  {
-   "inviter": "6af5867f963745c0cc1cd240",
-   "at": "2026-11-21 00:01",
-   "os": "아이폰",
-   "via": "code"
-  },
-  {
-   "inviter": "6af5867f963745c0cc1cd240",
-   "at": "2026-11-21 00:04",
-   "os": "아이폰",
-   "via": "code"
-  },
-  {
-   "inviter": "6af5867f963745c0cc1cd240",
-   "at": "2026-11-21 00:08",
-   "os": "아이폰",
-   "via": "code"
-  },
-  {
-   "inviter": "6af5867f963745c0cc1cd23e",
-   "at": "2026-11-21 00:09",
-   "os": "안드로이드",
-   "via": "code"
-  },
-  {
-   "inviter": "6af5867f963745c0cc1cd240",
-   "at": "2026-11-21 00:14",
-   "os": "안드로이드",
-   "via": "code"
-  },
-  {
-   "inviter": "6af5867f963745c0cc1cd240",
-   "at": "2026-11-21 00:18",
-   "os": "아이폰",
-   "via": "code"
-  },
-  {
-   "inviter": "6af5867f963745c0cc1cd240",
-   "at": "2026-11-21 00:20",
-   "os": "아이폰",
-   "via": "code"
-  },
-  {
-   "inviter": "6af5867f963745c0cc1cd240",
-   "at": "2026-11-21 00:22",
-   "os": "아이폰",
-   "via": "code"
-  },
-  {
-   "inviter": "6af5867f963745c0cc1cd240",
-   "at": "2026-11-21 00:24",
-   "os": "아이폰",
-   "via": "code"
-  },
-  {
-   "inviter": "6af5867f963745c0cc1cd240",
-   "at": "2026-11-21 00:26",
-   "os": "아이폰",
-   "via": "code"
-  },
-  {
-   "inviter": "6af5867f963745c0cc1cd240",
-   "at": "2026-11-21 00:33",
-   "os": "아이폰",
-   "via": "code"
-  },
-  {
-   "inviter": "6af5867f963745c0cc1cd240",
-   "at": "2026-11-21 00:49",
-   "os": "아이폰",
-   "via": "code"
-  },
-  {
-   "inviter": "6af5867f963745c0cc1cd240",
-   "at": "2026-11-21 00:54",
-   "os": "아이폰",
-   "via": "code"
-  },
-  {
-   "inviter": "6af5867f963745c0cc1cd240",
-   "at": "2026-11-21 01:07",
-   "os": "아이폰",
-   "via": "code"
-  },
-  {
-   "inviter": "6af5867f963745c0cc1cd240",
-   "at": "2026-11-21 01:10",
-   "os": "안드로이드",
-   "via": "code"
-  },
-  {
-   "inviter": "6af5867f963745c0cc1cd240",
-   "at": "2026-11-21 01:11",
-   "os": "아이폰",
-   "via": "code"
-  },
-  {
-   "inviter": "6af5867f963745c0cc1cd240",
-   "at": "2026-11-21 01:17",
-   "os": "안드로이드",
-   "via": "code"
-  },
-  {
-   "inviter": "6af5867f963745c0cc1cd240",
-   "at": "2026-11-21 01:38",
-   "os": "아이폰",
-   "via": "code"
-  },
-  {
-   "inviter": "6af5867f963745c0cc1cd240",
-   "at": "2026-11-21 01:42",
-   "os": "아이폰",
-   "via": "code"
-  },
-  {
-   "inviter": "6af5867f963745c0cc1cd240",
-   "at": "2026-11-21 01:55",
-   "os": "안드로이드",
-   "via": "code"
-  },
-  {
-   "inviter": "6af5867f963745c0cc1cd240",
-   "at": "2026-11-21 01:59",
-   "os": "아이폰",
-   "via": "code"
-  },
-  {
-   "inviter": "6af5867f963745c0cc1cd240",
-   "at": "2026-11-21 02:09",
-   "os": "아이폰",
-   "via": "code"
-  },
-  {
-   "inviter": "6af5867f963745c0cc1cd240",
-   "at": "2026-11-21 02:19",
-   "os": "아이폰",
-   "via": "code"
-  },
-  {
-   "inviter": "6af5867f963745c0cc1cd240",
-   "at": "2026-11-21 02:36",
-   "os": "아이폰",
-   "via": "code"
-  },
-  {
-   "inviter": "6af5867f963745c0cc1cd240",
-   "at": "2026-11-21 02:55",
-   "os": "아이폰",
-   "via": "code"
-  },
-  {
-   "inviter": "6af5867f963745c0cc1cd240",
-   "at": "2026-11-21 03:16",
-   "os": "아이폰",
-   "via": "code"
-  },
-  {
-   "inviter": "6af5867f963745c0cc1cd240",
-   "at": "2026-11-21 03:50",
-   "os": "아이폰",
-   "via": "code"
-  },
-  {
-   "inviter": "6af5867f963745c0cc1cd240",
-   "at": "2026-11-21 04:33",
-   "os": "안드로이드",
-   "via": "code"
-  },
-  {
-   "inviter": "6af5867f963745c0cc1cd240",
-   "at": "2026-11-21 05:23",
-   "os": "안드로이드",
-   "via": "code"
-  },
-  {
-   "inviter": "6af5867f963745c0cc1cd240",
-   "at": "2026-11-21 07:13",
-   "os": "안드로이드",
-   "via": "link"
-  },
-  {
-   "inviter": "6af5867f963745c0cc1cd240",
-   "at": "2026-11-21 07:14",
-   "os": "아이폰",
-   "via": "code"
-  },
-  {
-   "inviter": "6af5867f963745c0cc1cd240",
-   "at": "2026-11-21 07:17",
-   "os": "안드로이드",
-   "via": "code"
-  },
-  {
-   "inviter": "6af5867f963745c0cc1cd240",
-   "at": "2026-11-21 07:36",
-   "os": "아이폰",
-   "via": "code"
-  },
-  {
-   "inviter": "6af5867f963745c0cc1cd240",
-   "at": "2026-11-21 07:44",
-   "os": "아이폰",
-   "via": "code"
-  },
-  {
-   "inviter": "6af5867f963745c0cc1cd23e",
-   "at": "2026-11-21 07:44",
-   "os": "아이폰",
-   "via": "code"
-  },
-  {
-   "inviter": "6af5867f963745c0cc1cd240",
-   "at": "2026-11-21 07:51",
-   "os": "안드로이드",
-   "via": "code"
-  },
-  {
-   "inviter": "6af5867f963745c0cc1cd240",
-   "at": "2026-11-21 08:13",
-   "os": "아이폰",
-   "via": "code"
-  },
-  {
-   "inviter": "6af5867f963745c0cc1cd23e",
-   "at": "2026-11-21 08:28",
-   "os": "아이폰",
-   "via": "code"
-  },
-  {
-   "inviter": "6af5867f963745c0cc1cd240",
-   "at": "2026-11-21 09:00",
-   "os": "아이폰",
-   "via": "code"
-  },
-  {
-   "inviter": "6af5867f963745c0cc1cd240",
-   "at": "2026-11-21 09:02",
-   "os": "아이폰",
-   "via": "code"
-  },
-  {
-   "inviter": "6af5867f963745c0cc1cd23e",
-   "at": "2026-11-21 09:17",
-   "os": "안드로이드",
-   "via": "code"
-  },
-  {
-   "inviter": "6af5867f963745c0cc1cd240",
-   "at": "2026-11-21 09:19",
-   "os": "아이폰",
-   "via": "code"
-  },
-  {
-   "inviter": "6af5867f963745c0cc1cd240",
-   "at": "2026-11-21 09:25",
-   "os": "아이폰",
-   "via": "code"
-  },
-  {
-   "inviter": "6af5867f963745c0cc1cd240",
-   "at": "2026-11-21 09:35",
-   "os": "안드로이드",
-   "via": "code"
-  },
-  {
-   "inviter": "6af5867f963745c0cc1cd240",
-   "at": "2026-11-21 09:59",
-   "os": "아이폰",
-   "via": "code"
-  },
-  {
-   "inviter": "6af5867f963745c0cc1cd240",
-   "at": "2026-11-21 10:05",
-   "os": "안드로이드",
-   "via": "link"
-  },
-  {
-   "inviter": "6af5867f963745c0cc1cd240",
-   "at": "2026-11-21 10:15",
-   "os": "아이폰",
-   "via": "code"
-  },
-  {
-   "inviter": "6af5867f963745c0cc1cd240",
-   "at": "2026-11-21 10:27",
-   "os": "아이폰",
-   "via": "code"
-  },
-  {
-   "inviter": "6af5867f963745c0cc1cd240",
-   "at": "2026-11-21 10:40",
-   "os": "아이폰",
-   "via": "code"
-  },
-  {
-   "inviter": "6af5867f963745c0cc1cd240",
-   "at": "2026-11-21 10:44",
-   "os": "아이폰",
-   "via": "code"
-  },
-  {
-   "inviter": "6af5867f963745c0cc1cd23e",
-   "at": "2026-11-21 10:44",
-   "os": "안드로이드",
-   "via": "link"
-  },
-  {
-   "inviter": "6af5867f963745c0cc1cd240",
-   "at": "2026-11-21 10:46",
-   "os": "안드로이드",
-   "via": "code"
-  },
-  {
-   "inviter": "6af5867f963745c0cc1cd240",
-   "at": "2026-11-21 10:50",
-   "os": "아이폰",
-   "via": "code"
-  },
-  {
-   "inviter": "6af5867f963745c0cc1cd240",
-   "at": "2026-11-21 10:59",
-   "os": "아이폰",
-   "via": "code"
-  },
-  {
-   "inviter": "6af5867f963745c0cc1cd240",
-   "at": "2026-11-21 10:59",
-   "os": "아이폰",
-   "via": "code"
-  },
-  {
-   "inviter": "6af5867f963745c0cc1cd240",
-   "at": "2026-11-21 11:03",
-   "os": "아이폰",
-   "via": "code"
-  },
-  {
-   "inviter": "6af5867f963745c0cc1cd240",
-   "at": "2026-11-21 11:05",
-   "os": "안드로이드",
-   "via": "code"
-  },
-  {
-   "inviter": "6af5867f963745c0cc1cd240",
-   "at": "2026-11-21 11:05",
-   "os": "아이폰",
-   "via": "code"
-  },
-  {
-   "inviter": "6af5867f963745c0cc1cd240",
-   "at": "2026-11-21 11:05",
-   "os": "아이폰",
-   "via": "code"
-  },
-  {
-   "inviter": "6af5867f963745c0cc1cd23e",
-   "at": "2026-11-21 11:11",
-   "os": "안드로이드",
-   "via": "code"
-  },
-  {
-   "inviter": "6af5867f963745c0cc1cd240",
-   "at": "2026-11-21 11:13",
-   "os": "안드로이드",
-   "via": "code"
-  },
-  {
-   "inviter": "6af5867f963745c0cc1cd23e",
-   "at": "2026-11-21 11:16",
-   "os": "아이폰",
-   "via": "code"
-  },
-  {
-   "inviter": "6af5867f963745c0cc1cd240",
-   "at": "2026-11-21 11:34",
-   "os": "아이폰",
-   "via": "code"
-  },
-  {
-   "inviter": "6af5867f963745c0cc1cd23e",
-   "at": "2026-11-21 11:52",
-   "os": "아이폰",
-   "via": "code"
-  },
-  {
-   "inviter": "6af5867f963745c0cc1cd240",
-   "at": "2026-11-21 12:06",
-   "os": "안드로이드",
-   "via": "code"
-  },
-  {
-   "inviter": "6af5867f963745c0cc1cd23e",
-   "at": "2026-11-21 12:10",
-   "os": "아이폰",
-   "via": "code"
-  },
-  {
-   "inviter": "6af5867f963745c0cc1cd23e",
-   "at": "2026-11-21 12:20",
-   "os": "아이폰",
-   "via": "code"
-  },
-  {
-   "inviter": "6af5867f963745c0cc1cd240",
-   "at": "2026-11-21 12:45",
-   "os": "안드로이드",
-   "via": "code"
-  },
-  {
-   "inviter": "6af5867f963745c0cc1cd240",
-   "at": "2026-11-21 13:01",
-   "os": "아이폰",
-   "via": "code"
-  },
-  {
-   "inviter": "6af5867f963745c0cc1cd240",
-   "at": "2026-11-21 13:11",
-   "os": "아이폰",
-   "via": "code"
-  },
-  {
-   "inviter": "6af5867f963745c0cc1cd240",
-   "at": "2026-11-21 13:12",
-   "os": "아이폰",
-   "via": "code"
-  },
-  {
-   "inviter": "6af5867f963745c0cc1cd240",
-   "at": "2026-11-21 13:18",
-   "os": "아이폰",
-   "via": "code"
-  },
-  {
-   "inviter": "6af5867f963745c0cc1cd240",
-   "at": "2026-11-21 14:02",
-   "os": "안드로이드",
-   "via": "code"
-  },
-  {
-   "inviter": "6af5867f963745c0cc1cd240",
-   "at": "2026-11-21 14:09",
-   "os": "아이폰",
-   "via": "code"
-  },
-  {
-   "inviter": "6af5867f963745c0cc1cd23e",
-   "at": "2026-11-21 14:09",
-   "os": "아이폰",
-   "via": "code"
-  },
-  {
-   "inviter": "6af5867f963745c0cc1cd240",
-   "at": "2026-11-21 15:20",
-   "os": "아이폰",
-   "via": "code"
-  },
-  {
-   "inviter": "6af5867f963745c0cc1cd240",
-   "at": "2026-11-21 15:39",
-   "os": "아이폰",
-   "via": "code"
-  },
-  {
-   "inviter": "6af5867f963745c0cc1cd240",
-   "at": "2026-11-21 15:42",
-   "os": "아이폰",
-   "via": "code"
-  },
-  {
-   "inviter": "6af5867f963745c0cc1cd23e",
-   "at": "2026-11-21 16:09",
-   "os": "안드로이드",
-   "via": "code"
-  },
-  {
-   "inviter": "6af5867f963745c0cc1cd240",
-   "at": "2026-11-21 16:28",
-   "os": "아이폰",
-   "via": "code"
-  },
-  {
-   "inviter": "6af5867f963745c0cc1cd240",
-   "at": "2026-11-21 17:26",
-   "os": "아이폰",
-   "via": "code"
-  },
-  {
-   "inviter": "6af5867f963745c0cc1cd240",
-   "at": "2026-11-21 17:26",
-   "os": "아이폰",
-   "via": "code"
-  },
-  {
-   "inviter": "6af5867f963745c0cc1cd240",
-   "at": "2026-11-21 18:17",
-   "os": "아이폰",
-   "via": "code"
-  },
-  {
-   "inviter": "6af5867f963745c0cc1cd240",
-   "at": "2026-11-21 18:30",
-   "os": "아이폰",
-   "via": "code"
-  },
-  {
-   "inviter": "6af5867f963745c0cc1cd240",
-   "at": "2026-11-21 23:04",
-   "os": "안드로이드",
-   "via": "code"
-  },
-  {
-   "inviter": "6af5867f963745c0cc1cd240",
-   "at": "2026-11-21 23:32",
-   "os": "아이폰",
-   "via": "code"
-  },
-  {
-   "inviter": "6af5867f963745c0cc1cd242",
-   "at": "2026-11-22 03:37",
-   "os": "아이폰",
-   "via": "code"
-  },
-  {
-   "inviter": "6af5867f963745c0cc1cd240",
-   "at": "2026-11-22 10:04",
-   "os": "안드로이드",
-   "via": "code"
-  },
-  {
-   "inviter": "6af5867f963745c0cc1cd240",
-   "at": "2026-11-22 11:43",
-   "os": "아이폰",
-   "via": "code"
-  },
-  {
-   "inviter": "6af5867f963745c0cc1cd240",
-   "at": "2026-11-22 13:25",
-   "os": "아이폰",
-   "via": "code"
-  },
-  {
-   "inviter": "6af5867f963745c0cc1cd240",
-   "at": "2026-11-22 14:06",
-   "os": "아이폰",
-   "via": "code"
-  },
-  {
-   "inviter": "6af5867f963745c0cc1cd23e",
-   "at": "2026-11-22 15:23",
-   "os": "안드로이드",
-   "via": "code"
-  },
-  {
-   "inviter": "6af5867f963745c0cc1cd240",
-   "at": "2026-11-22 17:17",
-   "os": "아이폰",
-   "via": "code"
-  },
-  {
-   "inviter": "6af5867f963745c0cc1cd23e",
-   "at": "2026-11-22 19:27",
-   "os": "안드로이드",
-   "via": "code"
-  },
-  {
-   "inviter": "6af5867f963745c0cc1cd240",
-   "at": "2026-11-22 20:53",
-   "os": "아이폰",
-   "via": "code"
-  },
-  {
-   "inviter": "6af5867f963745c0cc1cd23e",
-   "at": "2026-11-22 22:11",
-   "os": "안드로이드",
-   "via": "code"
-  },
-  {
-   "inviter": "6af5867f963745c0cc1cd240",
-   "at": "2026-11-22 22:49",
-   "os": "아이폰",
-   "via": "code"
-  },
-  {
-   "inviter": "6af5867f963745c0cc1cd240",
-   "at": "2026-11-23 03:12",
-   "os": "아이폰",
-   "via": "code"
-  },
-  {
-   "inviter": "6af5867f963745c0cc1cd240",
-   "at": "2026-11-23 07:31",
-   "os": "안드로이드",
-   "via": "code"
-  },
-  {
-   "inviter": "6af5867f963745c0cc1cd240",
-   "at": "2026-11-23 11:47",
-   "os": "아이폰",
-   "via": "code"
-  },
-  {
-   "inviter": "6af5867f963745c0cc1cd240",
-   "at": "2026-11-23 11:56",
-   "os": "안드로이드",
-   "via": "link"
-  },
-  {
-   "inviter": "6af5867f963745c0cc1cd23e",
-   "at": "2026-11-23 12:01",
-   "os": "안드로이드",
-   "via": "code"
-  },
-  {
-   "inviter": "6af5867f963745c0cc1cd240",
-   "at": "2026-11-23 13:06",
-   "os": "아이폰",
-   "via": "code"
-  },
-  {
-   "inviter": "6af5867f963745c0cc1cd240",
-   "at": "2026-11-23 13:23",
-   "os": "아이폰",
-   "via": "code"
-  }
- ],
- "kr_paid": {
-  "period": "10월 6일~11월 5일",
-  "spend": 186600000,
-  "impressions": 39900000,
-  "signups": 54886,
-  "media": [
-   [
-    "페이스북·인스타",
-    59270000,
-    5880000
-   ],
-   [
-    "구글",
-    48760000,
-    12320000
-   ],
-   [
-    "몰로코",
-    32330000,
-    15070000
-   ],
-   [
-    "앱러빈",
-    31460000,
-    3170000
-   ],
-   [
-    "틱톡",
-    9190000,
-    3340000
-   ],
-   [
-    "애플 검색광고",
-    5590000,
-    120000
-   ]
-  ]
- },
- "mongo_as_of": "2026-11-23 15:30",
- "mixpanel": {
   "as_of": "2026-11-23 15:30",
-  "source": "invite-regist-complete 순 사용자, invite_code 별, 11/15~",
-  "by_code": {
-   "GOINGM": 5,
-   "YEOJUN": 50,
-   "YEONJO": 148
+  "influencers": [
+    {
+      "name": "고잉메리미",
+      "code": "GOINGM",
+      "link": "https://ahealth.onelink.me/0mmS/goingm",
+      "user_id": "6af5867f963745c0cc1cd242",
+      "upload": "2026-11-19",
+      "uploaded": true,
+      "channel": "인스타그램 릴스",
+      "cost": 1500000,
+      "cost_note": "VAT 별도",
+      "post": "https://www.instagram.com/reel/Df6rhsqSCyJ/",
+      "posted_at": "2026-11-19 17:48",
+      "views": 49958,
+      "likes": 353,
+      "comments": 14,
+      "shares": 42,
+      "saves": 44,
+      "campaign": "조회 캠페인"
+    },
+    {
+      "name": "여준영",
+      "code": "YEOJUN",
+      "link": "https://ahealth.onelink.me/0mmS/yeojun",
+      "user_id": "6af5867f963745c0cc1cd23e",
+      "upload": "2026-11-20",
+      "uploaded": true,
+      "channel": "인스타그램 릴스",
+      "cost": 1500000,
+      "cost_note": "3.3% 떼기 전",
+      "post": "https://www.instagram.com/reel/Df8bijhzXyq/",
+      "posted_at": "2026-11-20 10:05",
+      "views": 225187,
+      "likes": 5167,
+      "comments": 79,
+      "shares": 1220,
+      "saves": 262,
+      "campaign": "조회 캠페인"
+    },
+    {
+      "name": "유연조",
+      "code": "YEONJO",
+      "link": "https://ahealth.onelink.me/0mmS/yeonjo",
+      "user_id": "6af5867f963745c0cc1cd240",
+      "upload": "2026-11-20",
+      "uploaded": true,
+      "channel": "인스타그램 릴스",
+      "cost": 3000000,
+      "cost_note": "3.3% 떼기 전",
+      "campaign": "조회 캠페인",
+      "post": "https://www.instagram.com/reel/Df9RtJzB6dW/",
+      "posted_at": "2026-11-20 17:56",
+      "views": 443377,
+      "likes": 3900,
+      "comments": 82,
+      "shares": 9865,
+      "saves": 496
+    },
+    {
+      "name": "고도비만 미연이",
+      "code": "MIYEON",
+      "link": "https://ahealth.onelink.me/0mmS/miyeon",
+      "user_id": "6af57ebb9da3d4668e933468",
+      "upload": "2026-11-24",
+      "uploaded": false,
+      "channel": "인스타그램 릴스",
+      "cost": 600000,
+      "cost_note": "3.3% 떼기 전",
+      "campaign": "전환 캠페인"
+    },
+    {
+      "name": "나도 산다",
+      "code": "NADOSD",
+      "link": "https://ahealth.onelink.me/0mmS/nadosd",
+      "user_id": "6af5867e963745c0cc1cd23a",
+      "upload": "2026-11-29",
+      "uploaded": false,
+      "channel": "유튜브 쇼츠",
+      "cost": 800000,
+      "cost_note": "3.3% 떼기 전",
+      "campaign": "전환 캠페인"
+    },
+    {
+      "name": "한결",
+      "code": "HGYEOL",
+      "link": "https://ahealth.onelink.me/0mmS/hgyeol",
+      "user_id": "6af5867e963745c0cc1cd238",
+      "upload": "2026-12-03",
+      "uploaded": false,
+      "channel": "인스타그램 릴스",
+      "cost": 1000000,
+      "cost_note": "3.3% 떼기 전",
+      "campaign": "전환 캠페인"
+    },
+    {
+      "name": "지스터",
+      "code": "JISTER",
+      "link": "https://ahealth.onelink.me/0mmS/jister",
+      "user_id": "6af5867f963745c0cc1cd23c",
+      "upload": "2026-12-14",
+      "uploaded": false,
+      "channel": "인스타그램 릴스",
+      "cost": 850000,
+      "cost_note": "3.3% 떼기 전",
+      "campaign": "전환 캠페인"
+    }
+  ],
+  "signups": [
+    {
+      "inviter": "6af5867f963745c0cc1cd242",
+      "at": "2026-11-19 19:11",
+      "os": "안드로이드",
+      "via": "code"
+    },
+    {
+      "inviter": "6af5867f963745c0cc1cd242",
+      "at": "2026-11-19 19:38",
+      "os": "안드로이드",
+      "via": "link"
+    },
+    {
+      "inviter": "6af5867f963745c0cc1cd242",
+      "at": "2026-11-20 07:38",
+      "os": "안드로이드",
+      "via": "code"
+    },
+    {
+      "inviter": "6af5867f963745c0cc1cd240",
+      "at": "2026-11-20 08:59",
+      "os": "안드로이드",
+      "via": "code"
+    },
+    {
+      "inviter": "6af5867f963745c0cc1cd242",
+      "at": "2026-11-20 10:01",
+      "os": "아이폰",
+      "via": "code"
+    },
+    {
+      "inviter": "6af5867f963745c0cc1cd23e",
+      "at": "2026-11-20 10:22",
+      "os": "안드로이드",
+      "via": "code"
+    },
+    {
+      "inviter": "6af5867f963745c0cc1cd23e",
+      "at": "2026-11-20 10:22",
+      "os": "안드로이드",
+      "via": "code"
+    },
+    {
+      "inviter": "6af5867f963745c0cc1cd23e",
+      "at": "2026-11-20 10:23",
+      "os": "안드로이드",
+      "via": "code"
+    },
+    {
+      "inviter": "6af5867f963745c0cc1cd23e",
+      "at": "2026-11-20 10:30",
+      "os": "아이폰",
+      "via": "code"
+    },
+    {
+      "inviter": "6af5867f963745c0cc1cd23e",
+      "at": "2026-11-20 10:38",
+      "os": "안드로이드",
+      "via": "code"
+    },
+    {
+      "inviter": "6af5867f963745c0cc1cd23e",
+      "at": "2026-11-20 10:38",
+      "os": "안드로이드",
+      "via": "code"
+    },
+    {
+      "inviter": "6af5867f963745c0cc1cd23e",
+      "at": "2026-11-20 10:43",
+      "os": "안드로이드",
+      "via": "code"
+    },
+    {
+      "inviter": "6af5867f963745c0cc1cd23e",
+      "at": "2026-11-20 10:50",
+      "os": "안드로이드",
+      "via": "code"
+    },
+    {
+      "inviter": "6af5867f963745c0cc1cd23e",
+      "at": "2026-11-20 10:55",
+      "os": "아이폰",
+      "via": "code"
+    },
+    {
+      "inviter": "6af5867f963745c0cc1cd23e",
+      "at": "2026-11-20 11:01",
+      "os": "아이폰",
+      "via": "code"
+    },
+    {
+      "inviter": "6af5867f963745c0cc1cd23e",
+      "at": "2026-11-20 11:02",
+      "os": "안드로이드",
+      "via": "code"
+    },
+    {
+      "inviter": "6af5867f963745c0cc1cd23e",
+      "at": "2026-11-20 11:13",
+      "os": "안드로이드",
+      "via": "code"
+    },
+    {
+      "inviter": "6af5867f963745c0cc1cd23e",
+      "at": "2026-11-20 11:24",
+      "os": "안드로이드",
+      "via": "code"
+    },
+    {
+      "inviter": "6af5867f963745c0cc1cd23e",
+      "at": "2026-11-20 11:27",
+      "os": "안드로이드",
+      "via": "code"
+    },
+    {
+      "inviter": "6af5867f963745c0cc1cd240",
+      "at": "2026-11-20 11:46",
+      "os": "아이폰",
+      "via": "code"
+    },
+    {
+      "inviter": "6af5867f963745c0cc1cd23e",
+      "at": "2026-11-20 11:50",
+      "os": "안드로이드",
+      "via": "link"
+    },
+    {
+      "inviter": "6af5867f963745c0cc1cd23e",
+      "at": "2026-11-20 12:27",
+      "os": "아이폰",
+      "via": "code"
+    },
+    {
+      "inviter": "6af5867f963745c0cc1cd23e",
+      "at": "2026-11-20 12:28",
+      "os": "아이폰",
+      "via": "code"
+    },
+    {
+      "inviter": "6af5867f963745c0cc1cd23e",
+      "at": "2026-11-20 12:31",
+      "os": "안드로이드",
+      "via": "link"
+    },
+    {
+      "inviter": "6af5867f963745c0cc1cd23e",
+      "at": "2026-11-20 12:45",
+      "os": "안드로이드",
+      "via": "link"
+    },
+    {
+      "inviter": "6af5867f963745c0cc1cd23e",
+      "at": "2026-11-20 12:46",
+      "os": "안드로이드",
+      "via": "code"
+    },
+    {
+      "inviter": "6af5867f963745c0cc1cd23e",
+      "at": "2026-11-20 12:52",
+      "os": "안드로이드",
+      "via": "link"
+    },
+    {
+      "inviter": "6af5867f963745c0cc1cd23e",
+      "at": "2026-11-20 13:34",
+      "os": "아이폰",
+      "via": "code"
+    },
+    {
+      "inviter": "6af5867f963745c0cc1cd23e",
+      "at": "2026-11-20 13:45",
+      "os": "아이폰",
+      "via": "code"
+    },
+    {
+      "inviter": "6af5867f963745c0cc1cd23e",
+      "at": "2026-11-20 14:12",
+      "os": "아이폰",
+      "via": "code"
+    },
+    {
+      "inviter": "6af5867f963745c0cc1cd23e",
+      "at": "2026-11-20 14:18",
+      "os": "아이폰",
+      "via": "code"
+    },
+    {
+      "inviter": "6af5867f963745c0cc1cd23e",
+      "at": "2026-11-20 15:11",
+      "os": "아이폰",
+      "via": "code"
+    },
+    {
+      "inviter": "6af5867f963745c0cc1cd23e",
+      "at": "2026-11-20 15:24",
+      "os": "안드로이드",
+      "via": "code"
+    },
+    {
+      "inviter": "6af5867f963745c0cc1cd23e",
+      "at": "2026-11-20 15:41",
+      "os": "아이폰",
+      "via": "code"
+    },
+    {
+      "inviter": "6af5867f963745c0cc1cd23e",
+      "at": "2026-11-20 16:40",
+      "os": "아이폰",
+      "via": "code"
+    },
+    {
+      "inviter": "6af5867f963745c0cc1cd23e",
+      "at": "2026-11-20 17:45",
+      "os": "안드로이드",
+      "via": "code"
+    },
+    {
+      "inviter": "6af5867f963745c0cc1cd23e",
+      "at": "2026-11-20 17:56",
+      "os": "안드로이드",
+      "via": "code"
+    },
+    {
+      "inviter": "6af5867f963745c0cc1cd23e",
+      "at": "2026-11-20 18:03",
+      "os": "안드로이드",
+      "via": "code"
+    },
+    {
+      "inviter": "6af5867f963745c0cc1cd23e",
+      "at": "2026-11-20 18:03",
+      "os": "안드로이드",
+      "via": "code"
+    },
+    {
+      "inviter": "6af5867f963745c0cc1cd240",
+      "at": "2026-11-20 18:14",
+      "os": "아이폰",
+      "via": "code"
+    },
+    {
+      "inviter": "6af5867f963745c0cc1cd240",
+      "at": "2026-11-20 18:22",
+      "os": "아이폰",
+      "via": "code"
+    },
+    {
+      "inviter": "6af5867f963745c0cc1cd240",
+      "at": "2026-11-20 18:25",
+      "os": "안드로이드",
+      "via": "code"
+    },
+    {
+      "inviter": "6af5867f963745c0cc1cd240",
+      "at": "2026-11-20 18:27",
+      "os": "아이폰",
+      "via": "code"
+    },
+    {
+      "inviter": "6af5867f963745c0cc1cd240",
+      "at": "2026-11-20 18:35",
+      "os": "안드로이드",
+      "via": "code"
+    },
+    {
+      "inviter": "6af5867f963745c0cc1cd240",
+      "at": "2026-11-20 18:39",
+      "os": "안드로이드",
+      "via": "code"
+    },
+    {
+      "inviter": "6af5867f963745c0cc1cd240",
+      "at": "2026-11-20 18:42",
+      "os": "아이폰",
+      "via": "code"
+    },
+    {
+      "inviter": "6af5867f963745c0cc1cd240",
+      "at": "2026-11-20 18:44",
+      "os": "안드로이드",
+      "via": "code"
+    },
+    {
+      "inviter": "6af5867f963745c0cc1cd240",
+      "at": "2026-11-20 18:48",
+      "os": "안드로이드",
+      "via": "code"
+    },
+    {
+      "inviter": "6af5867f963745c0cc1cd240",
+      "at": "2026-11-20 18:48",
+      "os": "안드로이드",
+      "via": "code"
+    },
+    {
+      "inviter": "6af5867f963745c0cc1cd240",
+      "at": "2026-11-20 19:02",
+      "os": "안드로이드",
+      "via": "code"
+    },
+    {
+      "inviter": "6af5867f963745c0cc1cd240",
+      "at": "2026-11-20 19:07",
+      "os": "안드로이드",
+      "via": "code"
+    },
+    {
+      "inviter": "6af5867f963745c0cc1cd240",
+      "at": "2026-11-20 19:13",
+      "os": "아이폰",
+      "via": "code"
+    },
+    {
+      "inviter": "6af5867f963745c0cc1cd240",
+      "at": "2026-11-20 19:14",
+      "os": "안드로이드",
+      "via": "code"
+    },
+    {
+      "inviter": "6af5867f963745c0cc1cd240",
+      "at": "2026-11-20 19:16",
+      "os": "안드로이드",
+      "via": "code"
+    },
+    {
+      "inviter": "6af5867f963745c0cc1cd240",
+      "at": "2026-11-20 19:19",
+      "os": "아이폰",
+      "via": "code"
+    },
+    {
+      "inviter": "6af5867f963745c0cc1cd240",
+      "at": "2026-11-20 19:31",
+      "os": "아이폰",
+      "via": "code"
+    },
+    {
+      "inviter": "6af5867f963745c0cc1cd240",
+      "at": "2026-11-20 19:32",
+      "os": "아이폰",
+      "via": "code"
+    },
+    {
+      "inviter": "6af5867f963745c0cc1cd240",
+      "at": "2026-11-20 19:35",
+      "os": "아이폰",
+      "via": "code"
+    },
+    {
+      "inviter": "6af5867f963745c0cc1cd240",
+      "at": "2026-11-20 19:35",
+      "os": "아이폰",
+      "via": "code"
+    },
+    {
+      "inviter": "6af5867f963745c0cc1cd240",
+      "at": "2026-11-20 19:41",
+      "os": "아이폰",
+      "via": "code"
+    },
+    {
+      "inviter": "6af5867f963745c0cc1cd240",
+      "at": "2026-11-20 19:43",
+      "os": "아이폰",
+      "via": "code"
+    },
+    {
+      "inviter": "6af5867f963745c0cc1cd240",
+      "at": "2026-11-20 19:44",
+      "os": "아이폰",
+      "via": "code"
+    },
+    {
+      "inviter": "6af5867f963745c0cc1cd240",
+      "at": "2026-11-20 19:52",
+      "os": "안드로이드",
+      "via": "code"
+    },
+    {
+      "inviter": "6af5867f963745c0cc1cd240",
+      "at": "2026-11-20 19:53",
+      "os": "안드로이드",
+      "via": "code"
+    },
+    {
+      "inviter": "6af5867f963745c0cc1cd240",
+      "at": "2026-11-20 20:02",
+      "os": "안드로이드",
+      "via": "code"
+    },
+    {
+      "inviter": "6af5867f963745c0cc1cd240",
+      "at": "2026-11-20 20:12",
+      "os": "안드로이드",
+      "via": "code"
+    },
+    {
+      "inviter": "6af5867f963745c0cc1cd240",
+      "at": "2026-11-20 20:14",
+      "os": "안드로이드",
+      "via": "code"
+    },
+    {
+      "inviter": "6af5867f963745c0cc1cd240",
+      "at": "2026-11-20 20:17",
+      "os": "아이폰",
+      "via": "code"
+    },
+    {
+      "inviter": "6af5867f963745c0cc1cd240",
+      "at": "2026-11-20 20:17",
+      "os": "아이폰",
+      "via": "code"
+    },
+    {
+      "inviter": "6af5867f963745c0cc1cd23e",
+      "at": "2026-11-20 20:23",
+      "os": "안드로이드",
+      "via": "link"
+    },
+    {
+      "inviter": "6af5867f963745c0cc1cd240",
+      "at": "2026-11-20 20:24",
+      "os": "아이폰",
+      "via": "code"
+    },
+    {
+      "inviter": "6af5867f963745c0cc1cd240",
+      "at": "2026-11-20 20:26",
+      "os": "안드로이드",
+      "via": "code"
+    },
+    {
+      "inviter": "6af5867f963745c0cc1cd240",
+      "at": "2026-11-20 20:28",
+      "os": "아이폰",
+      "via": "code"
+    },
+    {
+      "inviter": "6af5867f963745c0cc1cd23e",
+      "at": "2026-11-20 20:28",
+      "os": "안드로이드",
+      "via": "code"
+    },
+    {
+      "inviter": "6af5867f963745c0cc1cd240",
+      "at": "2026-11-20 20:34",
+      "os": "아이폰",
+      "via": "code"
+    },
+    {
+      "inviter": "6af5867f963745c0cc1cd23e",
+      "at": "2026-11-20 20:36",
+      "os": "아이폰",
+      "via": "code"
+    },
+    {
+      "inviter": "6af5867f963745c0cc1cd23e",
+      "at": "2026-11-20 20:39",
+      "os": "아이폰",
+      "via": "code"
+    },
+    {
+      "inviter": "6af5867f963745c0cc1cd23e",
+      "at": "2026-11-20 20:49",
+      "os": "안드로이드",
+      "via": "code"
+    },
+    {
+      "inviter": "6af5867f963745c0cc1cd240",
+      "at": "2026-11-20 20:50",
+      "os": "아이폰",
+      "via": "code"
+    },
+    {
+      "inviter": "6af5867f963745c0cc1cd240",
+      "at": "2026-11-20 21:09",
+      "os": "아이폰",
+      "via": "code"
+    },
+    {
+      "inviter": "6af5867f963745c0cc1cd240",
+      "at": "2026-11-20 21:10",
+      "os": "아이폰",
+      "via": "code"
+    },
+    {
+      "inviter": "6af5867f963745c0cc1cd240",
+      "at": "2026-11-20 21:13",
+      "os": "아이폰",
+      "via": "code"
+    },
+    {
+      "inviter": "6af5867f963745c0cc1cd240",
+      "at": "2026-11-20 21:16",
+      "os": "아이폰",
+      "via": "code"
+    },
+    {
+      "inviter": "6af5867f963745c0cc1cd240",
+      "at": "2026-11-20 21:18",
+      "os": "아이폰",
+      "via": "code"
+    },
+    {
+      "inviter": "6af5867f963745c0cc1cd23e",
+      "at": "2026-11-20 21:29",
+      "os": "안드로이드",
+      "via": "code"
+    },
+    {
+      "inviter": "6af5867f963745c0cc1cd242",
+      "at": "2026-11-20 21:30",
+      "os": "아이폰",
+      "via": "code"
+    },
+    {
+      "inviter": "6af5867f963745c0cc1cd240",
+      "at": "2026-11-20 21:37",
+      "os": "아이폰",
+      "via": "code"
+    },
+    {
+      "inviter": "6af5867f963745c0cc1cd240",
+      "at": "2026-11-20 21:45",
+      "os": "안드로이드",
+      "via": "link"
+    },
+    {
+      "inviter": "6af5867f963745c0cc1cd240",
+      "at": "2026-11-20 21:58",
+      "os": "아이폰",
+      "via": "code"
+    },
+    {
+      "inviter": "6af5867f963745c0cc1cd240",
+      "at": "2026-11-20 21:59",
+      "os": "아이폰",
+      "via": "code"
+    },
+    {
+      "inviter": "6af5867f963745c0cc1cd240",
+      "at": "2026-11-20 22:03",
+      "os": "안드로이드",
+      "via": "code"
+    },
+    {
+      "inviter": "6af5867f963745c0cc1cd240",
+      "at": "2026-11-20 22:05",
+      "os": "안드로이드",
+      "via": "code"
+    },
+    {
+      "inviter": "6af5867f963745c0cc1cd240",
+      "at": "2026-11-20 22:08",
+      "os": "안드로이드",
+      "via": "code"
+    },
+    {
+      "inviter": "6af5867f963745c0cc1cd240",
+      "at": "2026-11-20 22:10",
+      "os": "아이폰",
+      "via": "code"
+    },
+    {
+      "inviter": "6af5867f963745c0cc1cd23e",
+      "at": "2026-11-20 22:10",
+      "os": "안드로이드",
+      "via": "link"
+    },
+    {
+      "inviter": "6af5867f963745c0cc1cd240",
+      "at": "2026-11-20 22:11",
+      "os": "아이폰",
+      "via": "code"
+    },
+    {
+      "inviter": "6af5867f963745c0cc1cd23e",
+      "at": "2026-11-20 22:13",
+      "os": "안드로이드",
+      "via": "link"
+    },
+    {
+      "inviter": "6af5867f963745c0cc1cd240",
+      "at": "2026-11-20 22:14",
+      "os": "아이폰",
+      "via": "code"
+    },
+    {
+      "inviter": "6af5867f963745c0cc1cd240",
+      "at": "2026-11-20 22:16",
+      "os": "안드로이드",
+      "via": "link"
+    },
+    {
+      "inviter": "6af5867f963745c0cc1cd240",
+      "at": "2026-11-20 22:17",
+      "os": "아이폰",
+      "via": "code"
+    },
+    {
+      "inviter": "6af5867f963745c0cc1cd240",
+      "at": "2026-11-20 22:17",
+      "os": "아이폰",
+      "via": "code"
+    },
+    {
+      "inviter": "6af5867f963745c0cc1cd240",
+      "at": "2026-11-20 22:24",
+      "os": "안드로이드",
+      "via": "code"
+    },
+    {
+      "inviter": "6af5867f963745c0cc1cd240",
+      "at": "2026-11-20 22:28",
+      "os": "아이폰",
+      "via": "code"
+    },
+    {
+      "inviter": "6af5867f963745c0cc1cd240",
+      "at": "2026-11-20 22:43",
+      "os": "아이폰",
+      "via": "code"
+    },
+    {
+      "inviter": "6af5867f963745c0cc1cd240",
+      "at": "2026-11-20 22:44",
+      "os": "아이폰",
+      "via": "code"
+    },
+    {
+      "inviter": "6af5867f963745c0cc1cd240",
+      "at": "2026-11-20 22:45",
+      "os": "아이폰",
+      "via": "code"
+    },
+    {
+      "inviter": "6af5867f963745c0cc1cd240",
+      "at": "2026-11-20 23:04",
+      "os": "안드로이드",
+      "via": "link"
+    },
+    {
+      "inviter": "6af5867f963745c0cc1cd240",
+      "at": "2026-11-20 23:12",
+      "os": "아이폰",
+      "via": "code"
+    },
+    {
+      "inviter": "6af5867f963745c0cc1cd23e",
+      "at": "2026-11-20 23:19",
+      "os": "안드로이드",
+      "via": "code"
+    },
+    {
+      "inviter": "6af5867f963745c0cc1cd240",
+      "at": "2026-11-20 23:20",
+      "os": "아이폰",
+      "via": "code"
+    },
+    {
+      "inviter": "6af5867f963745c0cc1cd240",
+      "at": "2026-11-20 23:26",
+      "os": "아이폰",
+      "via": "code"
+    },
+    {
+      "inviter": "6af5867f963745c0cc1cd240",
+      "at": "2026-11-20 23:32",
+      "os": "아이폰",
+      "via": "code"
+    },
+    {
+      "inviter": "6af5867f963745c0cc1cd240",
+      "at": "2026-11-20 23:46",
+      "os": "아이폰",
+      "via": "code"
+    },
+    {
+      "inviter": "6af5867f963745c0cc1cd240",
+      "at": "2026-11-20 23:47",
+      "os": "안드로이드",
+      "via": "code"
+    },
+    {
+      "inviter": "6af5867f963745c0cc1cd240",
+      "at": "2026-11-20 23:48",
+      "os": "아이폰",
+      "via": "code"
+    },
+    {
+      "inviter": "6af5867f963745c0cc1cd240",
+      "at": "2026-11-20 23:52",
+      "os": "아이폰",
+      "via": "code"
+    },
+    {
+      "inviter": "6af5867f963745c0cc1cd240",
+      "at": "2026-11-20 23:58",
+      "os": "아이폰",
+      "via": "code"
+    },
+    {
+      "inviter": "6af5867f963745c0cc1cd240",
+      "at": "2026-11-20 23:59",
+      "os": "안드로이드",
+      "via": "link"
+    },
+    {
+      "inviter": "6af5867f963745c0cc1cd240",
+      "at": "2026-11-21 00:01",
+      "os": "아이폰",
+      "via": "code"
+    },
+    {
+      "inviter": "6af5867f963745c0cc1cd240",
+      "at": "2026-11-21 00:04",
+      "os": "아이폰",
+      "via": "code"
+    },
+    {
+      "inviter": "6af5867f963745c0cc1cd240",
+      "at": "2026-11-21 00:08",
+      "os": "아이폰",
+      "via": "code"
+    },
+    {
+      "inviter": "6af5867f963745c0cc1cd23e",
+      "at": "2026-11-21 00:09",
+      "os": "안드로이드",
+      "via": "code"
+    },
+    {
+      "inviter": "6af5867f963745c0cc1cd240",
+      "at": "2026-11-21 00:14",
+      "os": "안드로이드",
+      "via": "code"
+    },
+    {
+      "inviter": "6af5867f963745c0cc1cd240",
+      "at": "2026-11-21 00:18",
+      "os": "아이폰",
+      "via": "code"
+    },
+    {
+      "inviter": "6af5867f963745c0cc1cd240",
+      "at": "2026-11-21 00:20",
+      "os": "아이폰",
+      "via": "code"
+    },
+    {
+      "inviter": "6af5867f963745c0cc1cd240",
+      "at": "2026-11-21 00:22",
+      "os": "아이폰",
+      "via": "code"
+    },
+    {
+      "inviter": "6af5867f963745c0cc1cd240",
+      "at": "2026-11-21 00:24",
+      "os": "아이폰",
+      "via": "code"
+    },
+    {
+      "inviter": "6af5867f963745c0cc1cd240",
+      "at": "2026-11-21 00:26",
+      "os": "아이폰",
+      "via": "code"
+    },
+    {
+      "inviter": "6af5867f963745c0cc1cd240",
+      "at": "2026-11-21 00:33",
+      "os": "아이폰",
+      "via": "code"
+    },
+    {
+      "inviter": "6af5867f963745c0cc1cd240",
+      "at": "2026-11-21 00:49",
+      "os": "아이폰",
+      "via": "code"
+    },
+    {
+      "inviter": "6af5867f963745c0cc1cd240",
+      "at": "2026-11-21 00:54",
+      "os": "아이폰",
+      "via": "code"
+    },
+    {
+      "inviter": "6af5867f963745c0cc1cd240",
+      "at": "2026-11-21 01:07",
+      "os": "아이폰",
+      "via": "code"
+    },
+    {
+      "inviter": "6af5867f963745c0cc1cd240",
+      "at": "2026-11-21 01:10",
+      "os": "안드로이드",
+      "via": "code"
+    },
+    {
+      "inviter": "6af5867f963745c0cc1cd240",
+      "at": "2026-11-21 01:11",
+      "os": "아이폰",
+      "via": "code"
+    },
+    {
+      "inviter": "6af5867f963745c0cc1cd240",
+      "at": "2026-11-21 01:17",
+      "os": "안드로이드",
+      "via": "code"
+    },
+    {
+      "inviter": "6af5867f963745c0cc1cd240",
+      "at": "2026-11-21 01:38",
+      "os": "아이폰",
+      "via": "code"
+    },
+    {
+      "inviter": "6af5867f963745c0cc1cd240",
+      "at": "2026-11-21 01:42",
+      "os": "아이폰",
+      "via": "code"
+    },
+    {
+      "inviter": "6af5867f963745c0cc1cd240",
+      "at": "2026-11-21 01:55",
+      "os": "안드로이드",
+      "via": "code"
+    },
+    {
+      "inviter": "6af5867f963745c0cc1cd240",
+      "at": "2026-11-21 01:59",
+      "os": "아이폰",
+      "via": "code"
+    },
+    {
+      "inviter": "6af5867f963745c0cc1cd240",
+      "at": "2026-11-21 02:09",
+      "os": "아이폰",
+      "via": "code"
+    },
+    {
+      "inviter": "6af5867f963745c0cc1cd240",
+      "at": "2026-11-21 02:19",
+      "os": "아이폰",
+      "via": "code"
+    },
+    {
+      "inviter": "6af5867f963745c0cc1cd240",
+      "at": "2026-11-21 02:36",
+      "os": "아이폰",
+      "via": "code"
+    },
+    {
+      "inviter": "6af5867f963745c0cc1cd240",
+      "at": "2026-11-21 02:55",
+      "os": "아이폰",
+      "via": "code"
+    },
+    {
+      "inviter": "6af5867f963745c0cc1cd240",
+      "at": "2026-11-21 03:16",
+      "os": "아이폰",
+      "via": "code"
+    },
+    {
+      "inviter": "6af5867f963745c0cc1cd240",
+      "at": "2026-11-21 03:50",
+      "os": "아이폰",
+      "via": "code"
+    },
+    {
+      "inviter": "6af5867f963745c0cc1cd240",
+      "at": "2026-11-21 04:33",
+      "os": "안드로이드",
+      "via": "code"
+    },
+    {
+      "inviter": "6af5867f963745c0cc1cd240",
+      "at": "2026-11-21 05:23",
+      "os": "안드로이드",
+      "via": "code"
+    },
+    {
+      "inviter": "6af5867f963745c0cc1cd240",
+      "at": "2026-11-21 07:13",
+      "os": "안드로이드",
+      "via": "link"
+    },
+    {
+      "inviter": "6af5867f963745c0cc1cd240",
+      "at": "2026-11-21 07:14",
+      "os": "아이폰",
+      "via": "code"
+    },
+    {
+      "inviter": "6af5867f963745c0cc1cd240",
+      "at": "2026-11-21 07:17",
+      "os": "안드로이드",
+      "via": "code"
+    },
+    {
+      "inviter": "6af5867f963745c0cc1cd240",
+      "at": "2026-11-21 07:36",
+      "os": "아이폰",
+      "via": "code"
+    },
+    {
+      "inviter": "6af5867f963745c0cc1cd240",
+      "at": "2026-11-21 07:44",
+      "os": "아이폰",
+      "via": "code"
+    },
+    {
+      "inviter": "6af5867f963745c0cc1cd23e",
+      "at": "2026-11-21 07:44",
+      "os": "아이폰",
+      "via": "code"
+    },
+    {
+      "inviter": "6af5867f963745c0cc1cd240",
+      "at": "2026-11-21 07:51",
+      "os": "안드로이드",
+      "via": "code"
+    },
+    {
+      "inviter": "6af5867f963745c0cc1cd240",
+      "at": "2026-11-21 08:13",
+      "os": "아이폰",
+      "via": "code"
+    },
+    {
+      "inviter": "6af5867f963745c0cc1cd23e",
+      "at": "2026-11-21 08:28",
+      "os": "아이폰",
+      "via": "code"
+    },
+    {
+      "inviter": "6af5867f963745c0cc1cd240",
+      "at": "2026-11-21 09:00",
+      "os": "아이폰",
+      "via": "code"
+    },
+    {
+      "inviter": "6af5867f963745c0cc1cd240",
+      "at": "2026-11-21 09:02",
+      "os": "아이폰",
+      "via": "code"
+    },
+    {
+      "inviter": "6af5867f963745c0cc1cd23e",
+      "at": "2026-11-21 09:17",
+      "os": "안드로이드",
+      "via": "code"
+    },
+    {
+      "inviter": "6af5867f963745c0cc1cd240",
+      "at": "2026-11-21 09:19",
+      "os": "아이폰",
+      "via": "code"
+    },
+    {
+      "inviter": "6af5867f963745c0cc1cd240",
+      "at": "2026-11-21 09:25",
+      "os": "아이폰",
+      "via": "code"
+    },
+    {
+      "inviter": "6af5867f963745c0cc1cd240",
+      "at": "2026-11-21 09:35",
+      "os": "안드로이드",
+      "via": "code"
+    },
+    {
+      "inviter": "6af5867f963745c0cc1cd240",
+      "at": "2026-11-21 09:59",
+      "os": "아이폰",
+      "via": "code"
+    },
+    {
+      "inviter": "6af5867f963745c0cc1cd240",
+      "at": "2026-11-21 10:05",
+      "os": "안드로이드",
+      "via": "link"
+    },
+    {
+      "inviter": "6af5867f963745c0cc1cd240",
+      "at": "2026-11-21 10:15",
+      "os": "아이폰",
+      "via": "code"
+    },
+    {
+      "inviter": "6af5867f963745c0cc1cd240",
+      "at": "2026-11-21 10:27",
+      "os": "아이폰",
+      "via": "code"
+    },
+    {
+      "inviter": "6af5867f963745c0cc1cd240",
+      "at": "2026-11-21 10:40",
+      "os": "아이폰",
+      "via": "code"
+    },
+    {
+      "inviter": "6af5867f963745c0cc1cd240",
+      "at": "2026-11-21 10:44",
+      "os": "아이폰",
+      "via": "code"
+    },
+    {
+      "inviter": "6af5867f963745c0cc1cd23e",
+      "at": "2026-11-21 10:44",
+      "os": "안드로이드",
+      "via": "link"
+    },
+    {
+      "inviter": "6af5867f963745c0cc1cd240",
+      "at": "2026-11-21 10:46",
+      "os": "안드로이드",
+      "via": "code"
+    },
+    {
+      "inviter": "6af5867f963745c0cc1cd240",
+      "at": "2026-11-21 10:50",
+      "os": "아이폰",
+      "via": "code"
+    },
+    {
+      "inviter": "6af5867f963745c0cc1cd240",
+      "at": "2026-11-21 10:59",
+      "os": "아이폰",
+      "via": "code"
+    },
+    {
+      "inviter": "6af5867f963745c0cc1cd240",
+      "at": "2026-11-21 10:59",
+      "os": "아이폰",
+      "via": "code"
+    },
+    {
+      "inviter": "6af5867f963745c0cc1cd240",
+      "at": "2026-11-21 11:03",
+      "os": "아이폰",
+      "via": "code"
+    },
+    {
+      "inviter": "6af5867f963745c0cc1cd240",
+      "at": "2026-11-21 11:05",
+      "os": "안드로이드",
+      "via": "code"
+    },
+    {
+      "inviter": "6af5867f963745c0cc1cd240",
+      "at": "2026-11-21 11:05",
+      "os": "아이폰",
+      "via": "code"
+    },
+    {
+      "inviter": "6af5867f963745c0cc1cd240",
+      "at": "2026-11-21 11:05",
+      "os": "아이폰",
+      "via": "code"
+    },
+    {
+      "inviter": "6af5867f963745c0cc1cd23e",
+      "at": "2026-11-21 11:11",
+      "os": "안드로이드",
+      "via": "code"
+    },
+    {
+      "inviter": "6af5867f963745c0cc1cd240",
+      "at": "2026-11-21 11:13",
+      "os": "안드로이드",
+      "via": "code"
+    },
+    {
+      "inviter": "6af5867f963745c0cc1cd23e",
+      "at": "2026-11-21 11:16",
+      "os": "아이폰",
+      "via": "code"
+    },
+    {
+      "inviter": "6af5867f963745c0cc1cd240",
+      "at": "2026-11-21 11:34",
+      "os": "아이폰",
+      "via": "code"
+    },
+    {
+      "inviter": "6af5867f963745c0cc1cd23e",
+      "at": "2026-11-21 11:52",
+      "os": "아이폰",
+      "via": "code"
+    },
+    {
+      "inviter": "6af5867f963745c0cc1cd240",
+      "at": "2026-11-21 12:06",
+      "os": "안드로이드",
+      "via": "code"
+    },
+    {
+      "inviter": "6af5867f963745c0cc1cd23e",
+      "at": "2026-11-21 12:10",
+      "os": "아이폰",
+      "via": "code"
+    },
+    {
+      "inviter": "6af5867f963745c0cc1cd23e",
+      "at": "2026-11-21 12:20",
+      "os": "아이폰",
+      "via": "code"
+    },
+    {
+      "inviter": "6af5867f963745c0cc1cd240",
+      "at": "2026-11-21 12:45",
+      "os": "안드로이드",
+      "via": "code"
+    },
+    {
+      "inviter": "6af5867f963745c0cc1cd240",
+      "at": "2026-11-21 13:01",
+      "os": "아이폰",
+      "via": "code"
+    },
+    {
+      "inviter": "6af5867f963745c0cc1cd240",
+      "at": "2026-11-21 13:11",
+      "os": "아이폰",
+      "via": "code"
+    },
+    {
+      "inviter": "6af5867f963745c0cc1cd240",
+      "at": "2026-11-21 13:12",
+      "os": "아이폰",
+      "via": "code"
+    },
+    {
+      "inviter": "6af5867f963745c0cc1cd240",
+      "at": "2026-11-21 13:18",
+      "os": "아이폰",
+      "via": "code"
+    },
+    {
+      "inviter": "6af5867f963745c0cc1cd240",
+      "at": "2026-11-21 14:02",
+      "os": "안드로이드",
+      "via": "code"
+    },
+    {
+      "inviter": "6af5867f963745c0cc1cd240",
+      "at": "2026-11-21 14:09",
+      "os": "아이폰",
+      "via": "code"
+    },
+    {
+      "inviter": "6af5867f963745c0cc1cd23e",
+      "at": "2026-11-21 14:09",
+      "os": "아이폰",
+      "via": "code"
+    },
+    {
+      "inviter": "6af5867f963745c0cc1cd240",
+      "at": "2026-11-21 15:20",
+      "os": "아이폰",
+      "via": "code"
+    },
+    {
+      "inviter": "6af5867f963745c0cc1cd240",
+      "at": "2026-11-21 15:39",
+      "os": "아이폰",
+      "via": "code"
+    },
+    {
+      "inviter": "6af5867f963745c0cc1cd240",
+      "at": "2026-11-21 15:42",
+      "os": "아이폰",
+      "via": "code"
+    },
+    {
+      "inviter": "6af5867f963745c0cc1cd23e",
+      "at": "2026-11-21 16:09",
+      "os": "안드로이드",
+      "via": "code"
+    },
+    {
+      "inviter": "6af5867f963745c0cc1cd240",
+      "at": "2026-11-21 16:28",
+      "os": "아이폰",
+      "via": "code"
+    },
+    {
+      "inviter": "6af5867f963745c0cc1cd240",
+      "at": "2026-11-21 17:26",
+      "os": "아이폰",
+      "via": "code"
+    },
+    {
+      "inviter": "6af5867f963745c0cc1cd240",
+      "at": "2026-11-21 17:26",
+      "os": "아이폰",
+      "via": "code"
+    },
+    {
+      "inviter": "6af5867f963745c0cc1cd240",
+      "at": "2026-11-21 18:17",
+      "os": "아이폰",
+      "via": "code"
+    },
+    {
+      "inviter": "6af5867f963745c0cc1cd240",
+      "at": "2026-11-21 18:30",
+      "os": "아이폰",
+      "via": "code"
+    },
+    {
+      "inviter": "6af5867f963745c0cc1cd240",
+      "at": "2026-11-21 23:04",
+      "os": "안드로이드",
+      "via": "code"
+    },
+    {
+      "inviter": "6af5867f963745c0cc1cd240",
+      "at": "2026-11-21 23:32",
+      "os": "아이폰",
+      "via": "code"
+    },
+    {
+      "inviter": "6af5867f963745c0cc1cd242",
+      "at": "2026-11-22 03:37",
+      "os": "아이폰",
+      "via": "code"
+    },
+    {
+      "inviter": "6af5867f963745c0cc1cd240",
+      "at": "2026-11-22 10:04",
+      "os": "안드로이드",
+      "via": "code"
+    },
+    {
+      "inviter": "6af5867f963745c0cc1cd240",
+      "at": "2026-11-22 11:43",
+      "os": "아이폰",
+      "via": "code"
+    },
+    {
+      "inviter": "6af5867f963745c0cc1cd240",
+      "at": "2026-11-22 13:25",
+      "os": "아이폰",
+      "via": "code"
+    },
+    {
+      "inviter": "6af5867f963745c0cc1cd240",
+      "at": "2026-11-22 14:06",
+      "os": "아이폰",
+      "via": "code"
+    },
+    {
+      "inviter": "6af5867f963745c0cc1cd23e",
+      "at": "2026-11-22 15:23",
+      "os": "안드로이드",
+      "via": "code"
+    },
+    {
+      "inviter": "6af5867f963745c0cc1cd240",
+      "at": "2026-11-22 17:17",
+      "os": "아이폰",
+      "via": "code"
+    },
+    {
+      "inviter": "6af5867f963745c0cc1cd23e",
+      "at": "2026-11-22 19:27",
+      "os": "안드로이드",
+      "via": "code"
+    },
+    {
+      "inviter": "6af5867f963745c0cc1cd240",
+      "at": "2026-11-22 20:53",
+      "os": "아이폰",
+      "via": "code"
+    },
+    {
+      "inviter": "6af5867f963745c0cc1cd23e",
+      "at": "2026-11-22 22:11",
+      "os": "안드로이드",
+      "via": "code"
+    },
+    {
+      "inviter": "6af5867f963745c0cc1cd240",
+      "at": "2026-11-22 22:49",
+      "os": "아이폰",
+      "via": "code"
+    },
+    {
+      "inviter": "6af5867f963745c0cc1cd240",
+      "at": "2026-11-23 03:12",
+      "os": "아이폰",
+      "via": "code"
+    },
+    {
+      "inviter": "6af5867f963745c0cc1cd240",
+      "at": "2026-11-23 07:31",
+      "os": "안드로이드",
+      "via": "code"
+    },
+    {
+      "inviter": "6af5867f963745c0cc1cd240",
+      "at": "2026-11-23 11:47",
+      "os": "아이폰",
+      "via": "code"
+    },
+    {
+      "inviter": "6af5867f963745c0cc1cd240",
+      "at": "2026-11-23 11:56",
+      "os": "안드로이드",
+      "via": "link"
+    },
+    {
+      "inviter": "6af5867f963745c0cc1cd23e",
+      "at": "2026-11-23 12:01",
+      "os": "안드로이드",
+      "via": "code"
+    },
+    {
+      "inviter": "6af5867f963745c0cc1cd240",
+      "at": "2026-11-23 13:06",
+      "os": "아이폰",
+      "via": "code"
+    },
+    {
+      "inviter": "6af5867f963745c0cc1cd240",
+      "at": "2026-11-23 13:23",
+      "os": "아이폰",
+      "via": "code"
+    }
+  ],
+  "kr_paid": {
+    "period": "10월 6일~11월 5일",
+    "spend": 186600000,
+    "impressions": 39900000,
+    "signups": 54886,
+    "media": [
+      [
+        "페이스북·인스타",
+        59270000,
+        5880000
+      ],
+      [
+        "구글",
+        48760000,
+        12320000
+      ],
+      [
+        "몰로코",
+        32330000,
+        15070000
+      ],
+      [
+        "앱러빈",
+        31460000,
+        3170000
+      ],
+      [
+        "틱톡",
+        9190000,
+        3340000
+      ],
+      [
+        "애플 검색광고",
+        5590000,
+        120000
+      ]
+    ]
+  },
+  "mongo_as_of": "2026-11-23 15:30",
+  "mixpanel": {
+    "as_of": "2026-11-23 15:30",
+    "source": "invite-regist-complete 순 사용자, invite_code 별, 11/15~",
+    "by_code": {
+      "GOINGM": 5,
+      "YEOJUN": 50,
+      "YEONJO": 148
+    }
   }
- }
 }
