@@ -1,5 +1,5 @@
 {
- "as_of": "2026-11-24 10:30",
+ "as_of": "2026-11-24 17:06",
  "influencers": [
   {
    "name": "고잉메리미",
@@ -13,8 +13,8 @@
    "cost_note": "VAT 별도",
    "post": "https://www.instagram.com/reel/Df6rhsqSCyJ/",
    "posted_at": "2026-11-19 17:48",
-   "views": 52668,
-   "likes": 363,
+   "views": 53676,
+   "likes": 368,
    "comments": 14,
    "shares": 45,
    "saves": 46,
@@ -32,11 +32,11 @@
    "cost_note": "3.3% 떼기 전",
    "post": "https://www.instagram.com/reel/Df8bijhzXyq/",
    "posted_at": "2026-11-20 10:05",
-   "views": 233858,
-   "likes": 5336,
+   "views": 237671,
+   "likes": 5401,
    "comments": 80,
-   "shares": 1246,
-   "saves": 263,
+   "shares": 1254,
+   "saves": 266,
    "campaign": "조회 캠페인"
   },
   {
@@ -52,11 +52,11 @@
    "campaign": "조회 캠페인",
    "post": "https://www.instagram.com/reel/Df9RtJzB6dW/",
    "posted_at": "2026-11-20 17:56",
-   "views": 453014,
-   "likes": 3967,
+   "views": 456123,
+   "likes": 3989,
    "comments": 85,
-   "shares": 10104,
-   "saves": 503
+   "shares": 10184,
+   "saves": 507
   },
   {
    "name": "고도비만 미연이",
@@ -1475,6 +1475,30 @@
    "at": "2026-11-24 10:18",
    "os": "아이폰",
    "via": "code"
+  },
+  {
+   "inviter": "6af5867f963745c0cc1cd240",
+   "at": "2026-11-24 13:43",
+   "os": "아이폰",
+   "via": "code"
+  },
+  {
+   "inviter": "6af5867f963745c0cc1cd23e",
+   "at": "2026-11-24 14:09",
+   "os": "아이폰",
+   "via": "code"
+  },
+  {
+   "inviter": "6af5867f963745c0cc1cd240",
+   "at": "2026-11-24 14:47",
+   "os": "아이폰",
+   "via": "code"
+  },
+  {
+   "inviter": "6af5867f963745c0cc1cd240",
+   "at": "2026-11-24 15:06",
+   "os": "안드로이드",
+   "via": "code"
   }
  ],
  "kr_paid": {
@@ -1515,14 +1539,14 @@
    ]
   ]
  },
- "mongo_as_of": "2026-11-24 10:30",
+ "mongo_as_of": "2026-11-24 17:06",
  "mixpanel": {
-  "as_of": "2026-11-24 10:30",
+  "as_of": "2026-11-24 17:06",
   "source": "invite-regist-complete 순 사용자, invite_code 별, 11/15~",
   "by_code": {
    "GOINGM": 5,
-   "YEOJUN": 52,
-   "YEONJO": 151
+   "YEOJUN": 53,
+   "YEONJO": 155
   }
  }
 }
