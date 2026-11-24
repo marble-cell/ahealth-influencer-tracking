@@ -1,5 +1,5 @@
 {
- "as_of": "2026-11-24 09:35",
+ "as_of": "2026-11-24 10:30",
  "influencers": [
   {
    "name": "고잉메리미",
@@ -13,7 +13,7 @@
    "cost_note": "VAT 별도",
    "post": "https://www.instagram.com/reel/Df6rhsqSCyJ/",
    "posted_at": "2026-11-19 17:48",
-   "views": 52573,
+   "views": 52668,
    "likes": 363,
    "comments": 14,
    "shares": 45,
@@ -32,10 +32,10 @@
    "cost_note": "3.3% 떼기 전",
    "post": "https://www.instagram.com/reel/Df8bijhzXyq/",
    "posted_at": "2026-11-20 10:05",
-   "views": 233365,
-   "likes": 5323,
+   "views": 233858,
+   "likes": 5336,
    "comments": 80,
-   "shares": 1245,
+   "shares": 1246,
    "saves": 263,
    "campaign": "조회 캠페인"
   },
@@ -52,8 +52,8 @@
    "campaign": "조회 캠페인",
    "post": "https://www.instagram.com/reel/Df9RtJzB6dW/",
    "posted_at": "2026-11-20 17:56",
-   "views": 452702,
-   "likes": 3966,
+   "views": 453014,
+   "likes": 3967,
    "comments": 85,
    "shares": 10104,
    "saves": 503
@@ -1469,6 +1469,12 @@
    "at": "2026-11-24 09:03",
    "os": "아이폰",
    "via": "code"
+  },
+  {
+   "inviter": "6af5867f963745c0cc1cd240",
+   "at": "2026-11-24 10:18",
+   "os": "아이폰",
+   "via": "code"
   }
  ],
  "kr_paid": {
@@ -1509,9 +1515,9 @@
    ]
   ]
  },
- "mongo_as_of": "2026-11-24 09:35",
+ "mongo_as_of": "2026-11-24 10:30",
  "mixpanel": {
-  "as_of": "2026-11-24 09:35",
+  "as_of": "2026-11-24 10:30",
   "source": "invite-regist-complete 순 사용자, invite_code 별, 11/15~",
   "by_code": {
    "GOINGM": 5,
