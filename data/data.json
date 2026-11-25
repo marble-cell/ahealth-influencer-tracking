@@ -1,5 +1,5 @@
 {
- "as_of": "2026-11-25 15:26",
+ "as_of": "2026-11-25 21:29",
  "influencers": [
   {
    "name": "고잉메리미",
@@ -13,8 +13,8 @@
    "cost_note": "VAT 별도",
    "post": "https://www.instagram.com/reel/Df6rhsqSCyJ/",
    "posted_at": "2026-11-19 17:48",
-   "views": 56218,
-   "likes": 372,
+   "views": 57574,
+   "likes": 378,
    "comments": 14,
    "shares": 46,
    "saves": 49,
@@ -32,11 +32,11 @@
    "cost_note": "3.3% 떼기 전",
    "post": "https://www.instagram.com/reel/Df8bijhzXyq/",
    "posted_at": "2026-11-20 10:05",
-   "views": 245927,
-   "likes": 5540,
-   "comments": 83,
-   "shares": 1264,
-   "saves": 271,
+   "views": 265086,
+   "likes": 5832,
+   "comments": 87,
+   "shares": 1290,
+   "saves": 278,
    "campaign": "조회 캠페인"
   },
   {
@@ -52,11 +52,11 @@
    "campaign": "조회 캠페인",
    "post": "https://www.instagram.com/reel/Df9RtJzB6dW/",
    "posted_at": "2026-11-20 17:56",
-   "views": 462277,
-   "likes": 4041,
+   "views": 464112,
+   "likes": 4064,
    "comments": 86,
-   "shares": 10370,
-   "saves": 511
+   "shares": 10419,
+   "saves": 512
   },
   {
    "name": "고도비만 미연이",
@@ -71,11 +71,11 @@
    "campaign": "전환 캠페인",
    "post": "https://www.instagram.com/reel/DgH8icsCKsi/",
    "posted_at": "2026-11-24 21:23",
-   "views": 6515,
-   "likes": 79,
+   "views": 7299,
+   "likes": 84,
    "comments": 18,
    "shares": 0,
-   "saves": 7
+   "saves": 8
   },
   {
    "name": "나도 산다",
@@ -526,6 +526,18 @@
   {
    "inviter": "6af5867f963745c0cc1cd23e",
    "at": "2026-11-25 00:53",
+   "os": "아이폰",
+   "via": "code"
+  },
+  {
+   "inviter": "6af5867f963745c0cc1cd23e",
+   "at": "2026-11-25 17:41",
+   "os": "아이폰",
+   "via": "code"
+  },
+  {
+   "inviter": "6af5867f963745c0cc1cd23e",
+   "at": "2026-11-25 20:51",
    "os": "아이폰",
    "via": "code"
   },
@@ -1644,6 +1656,12 @@
    "at": "2026-11-25 10:24",
    "os": "안드로이드",
    "via": "link"
+  },
+  {
+   "inviter": "6af57ebb9da3d4668e933468",
+   "at": "2026-11-25 21:11",
+   "os": "안드로이드",
+   "via": "code"
   }
  ],
  "kr_paid": {
@@ -1684,15 +1702,15 @@
    ]
   ]
  },
- "mongo_as_of": "2026-11-25 15:26",
+ "mongo_as_of": "2026-11-25 21:29",
  "mixpanel": {
-  "as_of": "2026-11-25 15:26",
+  "as_of": "2026-11-25 21:29",
   "source": "invite-regist-complete 순 사용자, invite_code 별, 11/15~",
   "by_code": {
    "GOINGM": 5,
-   "YEOJUN": 55,
+   "YEOJUN": 57,
    "YEONJO": 159,
-   "MIYEON": 11
+   "MIYEON": 12
   }
  }
 }
