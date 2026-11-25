@@ -1,5 +1,5 @@
 {
- "as_of": "2026-11-25 10:26",
+ "as_of": "2026-11-25 15:26",
  "influencers": [
   {
    "name": "고잉메리미",
@@ -13,8 +13,8 @@
    "cost_note": "VAT 별도",
    "post": "https://www.instagram.com/reel/Df6rhsqSCyJ/",
    "posted_at": "2026-11-19 17:48",
-   "views": 55644,
-   "likes": 370,
+   "views": 56218,
+   "likes": 372,
    "comments": 14,
    "shares": 46,
    "saves": 49,
@@ -32,11 +32,11 @@
    "cost_note": "3.3% 떼기 전",
    "post": "https://www.instagram.com/reel/Df8bijhzXyq/",
    "posted_at": "2026-11-20 10:05",
-   "views": 243712,
-   "likes": 5503,
+   "views": 245927,
+   "likes": 5540,
    "comments": 83,
-   "shares": 1260,
-   "saves": 270,
+   "shares": 1264,
+   "saves": 271,
    "campaign": "조회 캠페인"
   },
   {
@@ -52,10 +52,10 @@
    "campaign": "조회 캠페인",
    "post": "https://www.instagram.com/reel/Df9RtJzB6dW/",
    "posted_at": "2026-11-20 17:56",
-   "views": 461006,
-   "likes": 4023,
+   "views": 462277,
+   "likes": 4041,
    "comments": 86,
-   "shares": 10321,
+   "shares": 10370,
    "saves": 511
   },
   {
@@ -71,11 +71,11 @@
    "campaign": "전환 캠페인",
    "post": "https://www.instagram.com/reel/DgH8icsCKsi/",
    "posted_at": "2026-11-24 21:23",
-   "views": 5778,
-   "likes": 73,
-   "comments": 15,
+   "views": 6515,
+   "likes": 79,
+   "comments": 18,
    "shares": 0,
-   "saves": 6
+   "saves": 7
   },
   {
    "name": "나도 산다",
@@ -1532,6 +1532,18 @@
    "via": "code"
   },
   {
+   "inviter": "6af5867f963745c0cc1cd240",
+   "at": "2026-11-25 13:18",
+   "os": "아이폰",
+   "via": "code"
+  },
+  {
+   "inviter": "6af5867f963745c0cc1cd240",
+   "at": "2026-11-25 14:08",
+   "os": "안드로이드",
+   "via": "code"
+  },
+  {
    "inviter": "6af57ebb9da3d4668e933468",
    "at": "2026-11-24 21:13",
    "os": "안드로이드",
@@ -1672,14 +1684,14 @@
    ]
   ]
  },
- "mongo_as_of": "2026-11-25 10:26",
+ "mongo_as_of": "2026-11-25 15:26",
  "mixpanel": {
-  "as_of": "2026-11-25 10:26",
+  "as_of": "2026-11-25 15:26",
   "source": "invite-regist-complete 순 사용자, invite_code 별, 11/15~",
   "by_code": {
    "GOINGM": 5,
    "YEOJUN": 55,
-   "YEONJO": 157,
+   "YEONJO": 159,
    "MIYEON": 11
   }
  }
