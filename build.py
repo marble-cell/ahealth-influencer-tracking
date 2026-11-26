@@ -107,9 +107,9 @@ tr.sum td{{background:var(--head)}}tr.grp td{{background:var(--brand-soft);color
 <header class="top"><span class="eyebrow">에이헬스 인플루언서 캠페인</span><h1>인플루언서 가입 트래킹</h1><p class="muted">{stamp(d["as_of"])} 기준 · 시각은 모두 한국 시간</p></header>
 <section id="core"><h2>핵심</h2>
 <div class="camps">{camp_cards}</div></section>
-<section id="each"><h2>인플루언서별</h2><p class="muted">이름을 누르면 올라간 게시물이 열립니다. {SRC}</p>
+<section id="each"><h2>인플루언서별</h2><p class="muted">이름을 누르면 올라간 게시물이 열립니다. CVR은 조회 대비 가입 비율입니다. {SRC}</p>
 <div class="scroll"><table class="all"><thead><tr><th rowspan="2">인플루언서</th><th rowspan="2">업로드</th><th rowspan="2" class="n">비용</th><th colspan="5" class="c">게시물 반응</th><th colspan="4" class="c g">가입</th><th colspan="2" class="c g">비용 효율</th><th rowspan="2">초대 코드 · 링크</th></tr>
-<tr><th class="n">조회</th><th class="n">좋아요</th><th class="n">댓글</th><th class="n">공유</th><th class="n">저장</th><th class="n g">초대 코드</th><th class="n">링크</th><th class="n">합계</th><th class="n">조회당 가입</th><th class="n g">조회 1회당</th><th class="n">가입 1명당</th></tr></thead><tbody>{rows}</tbody></table></div></section>
+<tr><th class="n">조회</th><th class="n">좋아요</th><th class="n">댓글</th><th class="n">공유</th><th class="n">저장</th><th class="n g">초대 코드</th><th class="n">링크</th><th class="n">합계</th><th class="n" title="조회 대비 가입 비율">CVR</th><th class="n g">조회 1회당</th><th class="n">가입 1명당</th></tr></thead><tbody>{rows}</tbody></table></div></section>
 </main>
 """
 (HERE / "index.html").write_text(page, encoding="utf8")
