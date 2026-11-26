@@ -1,5 +1,5 @@
 {
- "as_of": "2026-11-25 21:29",
+ "as_of": "2026-11-26 10:25",
  "influencers": [
   {
    "name": "고잉메리미",
@@ -13,11 +13,11 @@
    "cost_note": "VAT 별도",
    "post": "https://www.instagram.com/reel/Df6rhsqSCyJ/",
    "posted_at": "2026-11-19 17:48",
-   "views": 57574,
-   "likes": 378,
+   "views": 60580,
+   "likes": 388,
    "comments": 14,
-   "shares": 46,
-   "saves": 49,
+   "shares": 52,
+   "saves": 52,
    "campaign": "조회 캠페인"
   },
   {
@@ -32,11 +32,11 @@
    "cost_note": "3.3% 떼기 전",
    "post": "https://www.instagram.com/reel/Df8bijhzXyq/",
    "posted_at": "2026-11-20 10:05",
-   "views": 265086,
-   "likes": 5832,
+   "views": 292393,
+   "likes": 6222,
    "comments": 87,
-   "shares": 1290,
-   "saves": 278,
+   "shares": 1339,
+   "saves": 289,
    "campaign": "조회 캠페인"
   },
   {
@@ -52,10 +52,10 @@
    "campaign": "조회 캠페인",
    "post": "https://www.instagram.com/reel/Df9RtJzB6dW/",
    "posted_at": "2026-11-20 17:56",
-   "views": 464112,
-   "likes": 4064,
-   "comments": 86,
-   "shares": 10419,
+   "views": 465987,
+   "likes": 4083,
+   "comments": 87,
+   "shares": 10494,
    "saves": 512
   },
   {
@@ -71,10 +71,10 @@
    "campaign": "전환 캠페인",
    "post": "https://www.instagram.com/reel/DgH8icsCKsi/",
    "posted_at": "2026-11-24 21:23",
-   "views": 7299,
-   "likes": 84,
+   "views": 8253,
+   "likes": 91,
    "comments": 18,
-   "shares": 0,
+   "shares": 1,
    "saves": 8
   },
   {
@@ -1556,6 +1556,12 @@
    "via": "code"
   },
   {
+   "inviter": "6af5867f963745c0cc1cd240",
+   "at": "2026-11-26 09:32",
+   "os": "안드로이드",
+   "via": "code"
+  },
+  {
    "inviter": "6af57ebb9da3d4668e933468",
    "at": "2026-11-24 21:13",
    "os": "안드로이드",
@@ -1702,14 +1708,14 @@
    ]
   ]
  },
- "mongo_as_of": "2026-11-25 21:29",
+ "mongo_as_of": "2026-11-26 10:25",
  "mixpanel": {
-  "as_of": "2026-11-25 21:29",
+  "as_of": "2026-11-26 10:25",
   "source": "invite-regist-complete 순 사용자, invite_code 별, 11/15~",
   "by_code": {
    "GOINGM": 5,
    "YEOJUN": 57,
-   "YEONJO": 159,
+   "YEONJO": 160,
    "MIYEON": 12
   }
  }
