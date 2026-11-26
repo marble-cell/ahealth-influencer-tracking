@@ -1,5 +1,5 @@
 {
- "as_of": "2026-11-26 15:27",
+ "as_of": "2026-11-26 21:27",
  "influencers": [
   {
    "name": "고잉메리미",
@@ -13,12 +13,22 @@
    "cost_note": "VAT 별도",
    "post": "https://www.instagram.com/reel/Df6rhsqSCyJ/",
    "posted_at": "2026-11-19 17:48",
-   "views": 62047,
-   "likes": 390,
-   "comments": 14,
-   "shares": 54,
-   "saves": 53,
-   "campaign": "조회 캠페인"
+   "views": 65791,
+   "likes": 400,
+   "comments": 15,
+   "shares": 57,
+   "saves": 54,
+   "campaign": "조회 캠페인",
+   "day7": {
+    "views": 65791,
+    "likes": 400,
+    "comments": 15,
+    "shares": 57,
+    "saves": 54,
+    "signups_code": 7,
+    "signups_link": 1,
+    "recorded_at": "2026-11-26 21:27"
+   }
   },
   {
    "name": "여준영",
@@ -32,11 +42,11 @@
    "cost_note": "3.3% 떼기 전",
    "post": "https://www.instagram.com/reel/Df8bijhzXyq/",
    "posted_at": "2026-11-20 10:05",
-   "views": 301469,
-   "likes": 6375,
-   "comments": 88,
-   "shares": 1366,
-   "saves": 292,
+   "views": 311511,
+   "likes": 6505,
+   "comments": 90,
+   "shares": 1391,
+   "saves": 296,
    "campaign": "조회 캠페인"
   },
   {
@@ -52,11 +62,11 @@
    "campaign": "조회 캠페인",
    "post": "https://www.instagram.com/reel/Df9RtJzB6dW/",
    "posted_at": "2026-11-20 17:56",
-   "views": 467112,
-   "likes": 4095,
+   "views": 469004,
+   "likes": 4116,
    "comments": 87,
-   "shares": 10531,
-   "saves": 512
+   "shares": 10626,
+   "saves": 513
   },
   {
    "name": "고도비만 미연이",
@@ -71,8 +81,8 @@
    "campaign": "전환 캠페인",
    "post": "https://www.instagram.com/reel/DgH8icsCKsi/",
    "posted_at": "2026-11-24 21:23",
-   "views": 8516,
-   "likes": 92,
+   "views": 8803,
+   "likes": 93,
    "comments": 18,
    "shares": 1,
    "saves": 8
@@ -1562,6 +1572,18 @@
    "via": "code"
   },
   {
+   "inviter": "6af5867f963745c0cc1cd240",
+   "at": "2026-11-26 18:18",
+   "os": "안드로이드",
+   "via": "link"
+  },
+  {
+   "inviter": "6af5867f963745c0cc1cd240",
+   "at": "2026-11-26 19:46",
+   "os": "아이폰",
+   "via": "code"
+  },
+  {
    "inviter": "6af57ebb9da3d4668e933468",
    "at": "2026-11-24 21:13",
    "os": "안드로이드",
@@ -1670,9 +1692,21 @@
    "via": "code"
   },
   {
+   "inviter": "6af57ebb9da3d4668e933468",
+   "at": "2026-11-26 16:04",
+   "os": "안드로이드",
+   "via": "link"
+  },
+  {
    "inviter": "6af5867f963745c0cc1cd242",
    "at": "2026-11-26 10:44",
    "os": "아이폰",
+   "via": "code"
+  },
+  {
+   "inviter": "6af5867f963745c0cc1cd242",
+   "at": "2026-11-26 19:41",
+   "os": "안드로이드",
    "via": "code"
   },
   {
@@ -1720,14 +1754,14 @@
    ]
   ]
  },
- "mongo_as_of": "2026-11-26 15:27",
+ "mongo_as_of": "2026-11-26 21:27",
  "mixpanel": {
-  "as_of": "2026-11-26 15:27",
+  "as_of": "2026-11-26 21:27",
   "source": "invite-regist-complete 순 사용자, invite_code 별, 11/15~",
   "by_code": {
-   "GOINGM": 6,
+   "GOINGM": 7,
    "YEOJUN": 58,
-   "YEONJO": 160,
+   "YEONJO": 161,
    "MIYEON": 12
   }
  }
