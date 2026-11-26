@@ -23,6 +23,7 @@ def stamp(s): return f"{day(s)} {clock(s)}"
 def man(n): return f"{n / 10000:,.0f}만 원"          # 비용은 만 원 단위
 def won(n): return f"{round(n):,}원"                  # 단가는 원 단위
 def won1(n): return f"{n:,.1f}원"
+def pct(a, b): return f"{a / b * 100:.3f}%" if b else "-"   # 조회당 가입 비율
 
 infl, sign, kr = d["influencers"], d["signups"], d["kr_paid"]
 name_of = {i["user_id"]: i["name"] for i in infl}
@@ -53,23 +54,23 @@ group = None
 for i in infl:
     if i["campaign"] != group:
         group = i["campaign"]
-        rows += f'<tr class="grp"><td colspan="14">{e(group)}</td></tr>'
+        rows += f'<tr class="grp"><td colspan="15">{e(group)}</td></tr>'
     c, l = cnt(i["user_id"], "code"), cnt(i["user_id"], "link")
     note = f'<br><span class="muted">{e(i["cost_note"])}</span>' if i["cost_note"] else ""
     if i["uploaded"]:
         n = c + l
         when = f'{day(i["upload"])}<br>{clock(i["posted_at"])}<br><span class="idx good">업로드 완료</span>'
         m = "".join(f'<td class="n">{i[k]:,}</td>' for k in KEYS)
-        m += f'<td class="n g"><b>{c}명</b></td><td class="n"><b>{l}명</b></td><td class="n"><b>{n}명</b></td>'
+        m += f'<td class="n g"><b>{c}명</b></td><td class="n"><b>{l}명</b></td><td class="n"><b>{n}명</b></td><td class="n"><b>{pct(n, i["views"])}</b></td>'
         m += f'<td class="n g"><b>{won1(i["cost"] / i["views"])}</b></td><td class="n"><b>{won(i["cost"] / n) if n else "-"}</b></td>'
     else:
         when = f'{day(i["upload"])}<br><span class="idx mid">업로드 예정</span>'
-        m = "".join(f'<td class="n{" g" if k in (5, 8) else ""}">{DASH}</td>' for k in range(10))
+        m = "".join(f'<td class="n{" g" if k in (5, 9) else ""}">{DASH}</td>' for k in range(11))
     rows += (f'<tr><td>{who(i)}</td><td>{when}</td><td class="n">{man(i["cost"])}{note}</td>{m}'
              f'<td><code>{e(i["code"])}</code><br><a href="{e(i["link"])}">{e(i["link"].replace("https://", ""))}</a></td></tr>')
 rows += (f'<tr class="sum"><td><b>총합계</b><br><span class="muted">계약 {len(infl)}명 · 업로드 {len(up)}명</span></td><td></td><td class="n"><b>{man(all_cost)}</b><br><span class="muted">업로드분 {man(up_cost)}</span></td>'
          + "".join(f'<td class="n"><b>{sum(i[k] for i in up):,}</b></td>' for k in KEYS)
-         + f'<td class="n g"><b>{n_code}명</b></td><td class="n"><b>{n_link}명</b></td><td class="n"><b>{total}명</b></td>'
+         + f'<td class="n g"><b>{n_code}명</b></td><td class="n"><b>{n_link}명</b></td><td class="n"><b>{total}명</b></td><td class="n"><b>{pct(total, up_views)}</b></td>'
          + f'<td class="n g"><b>{won1(up_cost / up_views)}</b></td><td class="n"><b>{won(up_cost / total)}</b></td><td><span class="muted">단가는 업로드분 비용 기준</span></td></tr>')
 
 log = ""
@@ -107,8 +108,8 @@ tr.sum td{{background:var(--head)}}tr.grp td{{background:var(--brand-soft);color
 <section id="core"><h2>핵심</h2>
 <div class="camps">{camp_cards}</div></section>
 <section id="each"><h2>인플루언서별</h2><p class="muted">이름을 누르면 올라간 게시물이 열립니다. {SRC}</p>
-<div class="scroll"><table class="all"><thead><tr><th rowspan="2">인플루언서</th><th rowspan="2">업로드</th><th rowspan="2" class="n">비용</th><th colspan="5" class="c">게시물 반응</th><th colspan="3" class="c g">가입</th><th colspan="2" class="c g">비용 효율</th><th rowspan="2">초대 코드 · 링크</th></tr>
-<tr><th class="n">조회</th><th class="n">좋아요</th><th class="n">댓글</th><th class="n">공유</th><th class="n">저장</th><th class="n g">초대 코드</th><th class="n">링크</th><th class="n">합계</th><th class="n g">조회 1회당</th><th class="n">가입 1명당</th></tr></thead><tbody>{rows}</tbody></table></div></section>
+<div class="scroll"><table class="all"><thead><tr><th rowspan="2">인플루언서</th><th rowspan="2">업로드</th><th rowspan="2" class="n">비용</th><th colspan="5" class="c">게시물 반응</th><th colspan="4" class="c g">가입</th><th colspan="2" class="c g">비용 효율</th><th rowspan="2">초대 코드 · 링크</th></tr>
+<tr><th class="n">조회</th><th class="n">좋아요</th><th class="n">댓글</th><th class="n">공유</th><th class="n">저장</th><th class="n g">초대 코드</th><th class="n">링크</th><th class="n">합계</th><th class="n">조회당 가입</th><th class="n g">조회 1회당</th><th class="n">가입 1명당</th></tr></thead><tbody>{rows}</tbody></table></div></section>
 </main>
 """
 (HERE / "index.html").write_text(page, encoding="utf8")
