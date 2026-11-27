@@ -1,5 +1,5 @@
 {
- "as_of": "2026-11-26 21:27",
+ "as_of": "2026-11-27 10:26",
  "influencers": [
   {
    "name": "고잉메리미",
@@ -1714,6 +1714,30 @@
    "at": "2026-11-26 12:30",
    "os": "안드로이드",
    "via": "code"
+  },
+  {
+   "inviter": "6af57ebb9da3d4668e933468",
+   "at": "2026-11-26 23:26",
+   "os": "안드로이드",
+   "via": "code"
+  },
+  {
+   "inviter": "6af5867f963745c0cc1cd23e",
+   "at": "2026-11-26 23:44",
+   "os": "아이폰",
+   "via": "code"
+  },
+  {
+   "inviter": "6af5867f963745c0cc1cd23e",
+   "at": "2026-11-27 00:31",
+   "os": "안드로이드",
+   "via": "link"
+  },
+  {
+   "inviter": "6af5867f963745c0cc1cd240",
+   "at": "2026-11-26 22:35",
+   "os": "아이폰",
+   "via": "code"
   }
  ],
  "kr_paid": {
@@ -1754,15 +1778,15 @@
    ]
   ]
  },
- "mongo_as_of": "2026-11-26 21:27",
+ "mongo_as_of": "2026-11-27 10:26",
  "mixpanel": {
-  "as_of": "2026-11-26 21:27",
+  "as_of": "2026-11-27 10:26",
   "source": "invite-regist-complete 순 사용자, invite_code 별, 11/15~",
   "by_code": {
    "GOINGM": 7,
-   "YEOJUN": 58,
-   "YEONJO": 161,
-   "MIYEON": 12
+   "YEOJUN": 59,
+   "YEONJO": 162,
+   "MIYEON": 13
   }
  }
 }
